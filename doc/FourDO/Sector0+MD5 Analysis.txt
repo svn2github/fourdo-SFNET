@@ -1,0 +1,565 @@
+Sector0MD5	Unique	FirstUniqueByte	FileSizeBytes	FileName
+002BD4F5A75D0D7F5A8E5E1C7F6AA2BE	True	0	262758400	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Doctor Hauzer (1994)(Panasonic)(JP)[!].zip
+0076B016A54C83B6290E908CFEED2FF7	True	0	42557440	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Igo Time Trial Shikatsudai Hyakka (1995)(Ematec)(JP).zip
+0082ECE76A96601480817BE48E2CC9A6	True	0	654622720	H:\Emulation\3DO\ALL_3DO_ROMS\Multimedia\ESPN Golf - Lower Your Score With Tom Kite - Shot Making (1994)(IntelliPlay)(US)(Disc 1 of 3)[!][Shot Making Disc 1].zip
+015039313AA5AB0E339A971ED9C67C2F	True	0	136929280	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Quarantine (1994)(Gametek - Imagineer)(JP-US)(M5)[!][IM-TS9503, 439480068501RE3].zip
+01CDA6B2DA361DE306F635E8A2F91818	True	0	537487360	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Taiketsu! Rumii Zu (1995)(Sanyo)(JP).zip
+01EBC31C447CDF5C8EE64E51F74AFB2B	True	0	230998016	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Montana Jones (1995)(Future Pirates Junior)(JP)[!].zip
+022CF8B7CDAEE7CC8F24AAF5A1EABBA4	True	0	314884096	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Game no Tatsujin (1995)(Sunsoft)(JP)[!].zip
+02A387869404EC0F60846985DBDC674D	True	0	430837760	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Space Ace (1995)(ReadySoft)(US)[!][DH 65008 RE-1].zip
+033EA67271B97148DCD1369430588D32	True	0	210636800	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Doom (1995)(Art Data)(US)[!].zip
+04B75AFC7FBD32C63EE05038E8AEC514	True	0	242094080	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Dragon's Lair (1993)(ReadySoft)(JP)[!].zip
+0534F99F72D8E6801661AF011D28ECE9	True	0	649379840	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Perfect World - Combat in a Digital World (1995)(Electronic Arts)(JP)[!].zip
+05557CDEE927E788015EED108470F93D	True	0	572395520	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Crime Patrol (1994)(American Laser Games)(US)[!].zip
+06D4DC364D2CE449F3EAD822FDF96076	True	0	675594240	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Tozasareta Yakata (1995)(Studio 3DO)(JP)[!].zip
+0813557B9D8E8623D3888C38AFC1A58B	True	0	105472000	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Slam 'N Jam '95 (1995)(BMG Interactive Entertainment)(JP)(en)[!].zip
+08760961AA45A470E155F458EB607C61	True	0	672010240	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Supreme Warrior - Ying Heung (1994)(Digital Pictures)(US)(en-zh)(Disc 1 of 2)[!][Fire & Earth].zip
+08BA5F6C9A2B9A09C8EFB15584E13A7C	True	0	424984576	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Nontan to Issho - Hoshi no Okurimono (1995)(Panasonic)(JP).zip
+090DCEB0D8647D638ACD06C04F98B05D	True	0	504238080	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Gridders v1.1 (1994)(Studio 3DO)(JP).zip
+092CF72D25C9EA1F94C0EEDDE46DE9A1	True	0	565796864	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Strahl (1994)(Media Entertainment)(JP)[!].zip
+0A005105EC67FB2C408283864FFAF62A	True	0	336158720	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Crayon Shin-chan - Puzzle Daimaou no Nazo (1995)(Bandai)(JP).zip
+0A25617AFF981F97F6E216999C2742C4	True	0	643391488	H:\Emulation\3DO\ALL_3DO_ROMS\Multimedia\ESPN Golf - Tom Kite no Kore ga Golf Da! (1994)(BYSE)(JP)(Disc 2 of 3)[!].zip
+0A755A005D5622CDB09CEC8F620E7746	True	0	504238080	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Gridders (1994)(Tetragon)(US)[!].zip
+0AAA6D4BC4BBD55DBA5B0D1B6720BF4B	True	0	371066880	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Sangokushi IV (1995)(KOEI)(JP)[!].zip
+0B0F27B610B77A03F7A06C179217D7CF	False	-1	671703040	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Road Rash (1994)(Electronic Arts)(EU).zip
+0B0F27B610B77A03F7A06C179217D7CF	False	-1	672010240	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Road Rash (1994)(Electronic Arts)(US)[!].zip
+0B283566EFA6C9007554F9DC8C689A72	True	0	273244160	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Idol Janshi Suchie-Pai Special (1994)(Jaleco)(JP)[!].zip
+0B46AD36D75CCB217DAE37AF0D30C934	True	0	231301120	H:\Emulation\3DO\ALL_3DO_ROMS\Samplers\Montana Jones (demo) (1995)(Panasonic)(JP)[!].zip
+0C714E611339108DEEA68AFBD42265FB	True	0	315187200	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Shock Wave - Operation JumpGate (1995)(Electronic Arts)(JP)[!].zip
+0D7EBE041917E1B5526C0AEB7D38B7D4	True	0	325369856	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Keiba Saishou no Housoku (1994)(Copya)(JP)[!].zip
+0DCB3467A230E365C6D2AFBEB4714ED9	True	0	672010240	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Supreme Warrior - Ying Heung (1994)(Digital Pictures)(US)(en-zh)(Disc 2 of 2)[!][Wind & Fang Tu].zip
+0DE300B7EEB3C12BD1C32722FE43860C	True	0	630067200	H:\Emulation\3DO\ALL_3DO_ROMS\Samplers\Road Rash (demo) (1994)(Panasonic)(JP).zip
+0DE37877ECB2DC804216CA8D7444A891	True	0	420044800	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Lemmings (1994)(Electronic Arts)(JP)(en)[!].zip
+0E183E7E0BA4635BA73E16451D6EC73B	False	-1	105476096	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Shanghai - Triple-Threat (1994)(Activision)(US)[!][02500-2.4].zip
+0E183E7E0BA4635BA73E16451D6EC73B	False	-1	105472000	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Shanghai - Triple-Threat (1994)(Activision)(US)[!][TRIPLETHREAT R1J].zip
+0E393D4B918E404427A28C54747DF0FF	True	0	582270976	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Rise of the Robots (1995)(Art Data)(EU)(M3)[!].zip
+108FF815B890E1F10C8E3EA2D9DB6A1A	True	0	178569216	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Cyberdillo (1995)(Panasonic)(US)[!].zip
+114FCFCE0093EF4119D83248ACEF3514	True	0	323575808	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Way of the Warrior (1994)(Universal Interactive Studios)(NTSC)(US)[!].zip
+11DC98A260C00F299AD80FE94BD71D31	True	0	461987840	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Star Wars - Rebel Assault v1.0 (1993)(Electronic Arts)(EU-US)[!].zip
+12377D51EDD6F38D462BB313670639AD	True	0	262758400	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Flashback - The Quest for Identity (1994)(Interplay)(JP)(M6).zip
+124B817C4AF13C0B31762CF05D3CAA88	True	0	657022976	H:\Emulation\3DO\ALL_3DO_ROMS\Multimedia\ESPN Golf - Tom Kite no Kore ga Golf Da! (1994)(BYSE)(JP)(Disc 1 of 3)[!].zip
+125D027E9B1547EE6029F4C2FE05EA4B	True	0	629760000	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Grimm Meisaku Gekijou 3 - Akazukin (1994)(IMA)(JP)[!].zip
+1292E2C88227418D8462565ED693FE7D	True	0	84504576	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Fatty Bear's Funpack (1993)(Humongous Entertainment)(US)[!].zip
+12AAFBBBE32E5DB296DCC7CC8AEAE7F0	False	-1	441018368	H:\Emulation\3DO\ALL_3DO_ROMS\Games\BattleSport (1995)(Studio 3DO)(EU)[!].zip
+12AAFBBBE32E5DB296DCC7CC8AEAE7F0	False	-1	441323520	H:\Emulation\3DO\ALL_3DO_ROMS\Games\BattleSport (1995)(Studio 3DO)(US)[!].zip
+13F758BA63594C79D67759E6A086681B	True	0	244932608	H:\Emulation\3DO\ALL_3DO_ROMS\Games\F1GP (1995)(Pony Canyon)(JP).zip
+1414B99D1385569D11794A7A386573D5	True	0	336158720	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Blue Forest Monogatari (1996)(Panasonic)(JP)[!].zip
+14ACB50599EE7F19A4753B2E45DAF386	True	0	650428416	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Twisted - The Game Show (1993)(Electronic Arts)(EU).zip
+14B3F0DF3248D6F4C8FB6CC1252DB97A	True	0	645185536	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Sesame Street - Numbers (1995)(EA Kids)(JP)(en-ja).zip
+15701A57463ECCC8B4C9B010F758C92D	True	0	650428416	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Road Rash (1994)(Electronic Arts)(JP)[!].zip
+1596FE913B6E454769D3CF1A7E5080EE	True	0	671399936	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Daedalus Encounter, The (1995)(Panasonic)(US)(Disc 2 of 4)[!].zip
+15B9525C2A384DB495A3ABD89722860F	True	0	462295040	H:\Emulation\3DO\ALL_3DO_ROMS\Samplers\Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (1994)(Panasonic)(JP)[!].zip
+169700E7647517A9D49CA4B3090056BB	True	0	503930880	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Gridders v1.1 (1994)(Studio 3DO)(EU).zip
+17CB41FE4A5280C9C5A4903F8B71F5BD	True	0	581525504	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Fun 'n Games (1993)(Panasonic)(US)[!].zip
+18CA1E136237805833A316F3E3633B49	True	0	629456896	H:\Emulation\3DO\ALL_3DO_ROMS\Adult\NeuroDancer - Journey Into The Neuronet (1994)(Pixis Interactive)(US).zip
+18CFA238790577EB3D1D0F663D16060C	True	0	294215680	H:\Emulation\3DO\ALL_3DO_ROMS\Adult\Virtual Cameraman Part 4 - Shiori Fujitani (1995)(Transpegasus)(JP)[!].zip
+1929EA85F7F8BCC30A278B961E7920C2	True	0	675594240	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Paddock Note '95 (1995)(Fuji Television)(JP)[!].zip
+1BC18F2AD561EE6698EF01B38E276E81	True	0	524599296	H:\Emulation\3DO\ALL_3DO_ROMS\Adult\Virtual Cameraman Part 1 - Naomi Sawada & Anna Juri (1995)(Transpegasus)(JP)[!].zip
+1C56A2F2CA35627F10FF311A795BCCF7	True	0	545873920	H:\Emulation\3DO\ALL_3DO_ROMS\Games\D no Shokutaku (1995)(San-Ei Shobo Publishing)(JP)(Disc 1 of 2)[!].zip
+1CA48D6E0CA453C3A87052A6B92231AE	True	0	425287680	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Dragon's Lair (1994)(Elite - ReadySoft)(EU)(M4).zip
+1CC8C458AE56688A1C22624CE15C40AC	True	0	26828800	H:\Emulation\3DO\ALL_3DO_ROMS\Games\AI Shougi (1995)(Taito)(JP).zip
+1DBF779A74FD3269589CBD3DCFA7E4BE	True	0	304705536	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Stellar 7 - Draxon's Revenge (1993)(Dynamix)(US)[!].zip
+1F0AFF688CCA19AD9EDB0941AFCB070C	True	0	658817024	H:\Emulation\3DO\ALL_3DO_ROMS\Multimedia\Aqua World - Umibi Monogatari (1995)(Mizuki)(JP).zip
+1F925AFD64594F299C9492DA1994C188	False	-1	655974400	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Psychic Detective (1995)(Electronic Arts)(EU)(Disc 1 of 3)[!].zip
+1F925AFD64594F299C9492DA1994C188	False	-1	655978496	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Psychic Detective (1995)(Electronic Arts)(US)(Disc 1 of 3)[!].zip
+20B52C3833124CD287B18F65F2AF4610	True	0	650735616	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Mathemagics - An Interactive Learning Cube (1994)(L3)(US)[!].zip
+217024DB8EAFA597615263AC4A0C9586	False	-1	676456448	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Captain Quazar (1995)(Studio 3DO)(EU)[!].zip
+217024DB8EAFA597615263AC4A0C9586	False	-1	676458496	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Captain Quazar (1996)(Studio 3DO)(US)[!].zip
+2203F490446870D6721BA2F47EEA22B0	True	0	399073280	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Waialae Country Club (1994)(Panasonic)(EU).zip
+221AB0F9E8BD02345C8445B691B3A9FB	True	0	428433408	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Peter Frankl - Puzzle no Tou (1995)(TBS Multimedia)(JP)(en-ja)[!].zip
+2341CF80B8F10A1AA8A30FFC36872380	True	0	673800192	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Club 3DO - Station Invasion (1994)(Studio 3DO)(US)[!].zip
+23E215A9A6BD3E131EEA9A0F53A7F2E8	True	0	346644480	H:\Emulation\3DO\ALL_3DO_ROMS\Games\OverDrivin' (1994)(Electronic Arts)(JP)[!].zip
+24968EE0AF4438460F27A3D4573D5CCE	True	0	285827072	H:\Emulation\3DO\ALL_3DO_ROMS\Multimedia\ESPN Golf - Tom Kite no Kore ga Golf Da! (1994)(BYSE)(JP)(Disc 3 of 3)[!].zip
+24A01440A36507CF3195385847EDC5A0	True	0	629456896	H:\Emulation\3DO\ALL_3DO_ROMS\Adult\Mind Teazzer (1994)(Vivid Interactive)(US)[!].zip
+24E92FD271FED670B9EF578DBB82CD8A	True	0	671707136	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Wing Commander III - Heart of the Tiger (1995)(Origin)(US)(Disc 4 of 4).zip
+251B2164D13F036E9905F50D07D36EB3	True	0	524906496	H:\Emulation\3DO\ALL_3DO_ROMS\Multimedia\Woody Woodpecker and Friends - Volume Three (1994)(MCA Universal Home Video)(US).zip
+25BEB9F6C0073D2EF69DD060D119740F	True	0	671703040	H:\Emulation\3DO\ALL_3DO_ROMS\Games\MegaRace (1994)(Mindscape)(EU)(M5).zip
+25BF1D69829E33AC10B94E8C587E9AE1	True	0	671703040	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Horde, The (1994)(Crystal Dynamics)(US)[!].zip
+25C3BFD8546D6BC70273BD13A8D3D9F1	True	0	436080640	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Who Shot Johnny Rock (1994)(American Laser Games)(US)[!].zip
+264CD84C64464FE483E78FA3CD385095	True	0	655974400	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Bakushou!! All Yoshimoto Quiz ou Ketteisen (1995)(Yoshimoto Kogyo)(JP)[!].zip
+2657A063940138FAD85C141562C5ACDC	True	0	676458496	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Dragon Lore - The Legend Begins (1995)(Mindscape)(EU-US)(M4)(Disc 3 of 3)[!].zip
+265F2595B85C32CAD4BADD610F4F841E	True	0	252272640	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Powers Kingdom (1994)(Panasonic)(EU)[!].zip
+26D80DCDF18249493A267CB41B878B36	True	0	325369856	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Way of the Warrior (1995)(Universal Interactive Studios)(JP)[!].zip
+26FC5C8B5AB8159380672BF30CC39934	True	0	273244160	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Nice Body - For Professional Use - Oar Star Suieitaikai Official CD-ROM (1995)(Fuji Television)(JP)[!].zip
+28DC8928205DCE8B68FB9AE50F4710E0	True	0	672010240	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Toon Time...in the classroom (1994)(VideoactV)(US)[!].zip
+28E0D34B6705AD98080DE0FC65DE5B41	True	0	671703040	H:\Emulation\3DO\ALL_3DO_ROMS\Multimedia\3D Atlas (1994)(Electronic Arts)(US).zip
+28EC609CAC993A37042F74B97C3B06A6	False	-1	676454400	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Immercenary (1995)(Electronic Arts)(EU)[!].zip
+28EC609CAC993A37042F74B97C3B06A6	False	-1	676761600	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Immercenary (1995)(Electronic Arts)(US)[!].zip
+290C2A90B6BB834956900ADD9B636CEA	True	0	462295040	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Star Fighter (1995)(Studio 3DO)(EU-US)[!].zip
+2955F4B16E36220B8E2325AD1A3784F1	True	0	294215680	H:\Emulation\3DO\ALL_3DO_ROMS\Adult\Virtual Cameraman Part 5 - Yuri Andou (1995)(Transpegasus)(JP)[!].zip
+29578CD34E41AD2B1C6816E14097C1AF	True	0	407461888	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Incredible Machine, The (1994)(Dynamix)(EU)[!].zip
+2A1A23BD60A88FA3C30756EB3C89CBFB	True	0	524902400	H:\Emulation\3DO\ALL_3DO_ROMS\Adult\Onee-san to Isshoo! Shanken Paradise (1994)(Intarus)(JP).zip
+2A3CB139FDCB1A7B931EAF88029376D0	False	-1	650733568	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Shock Wave (1994)(Electronic Arts)(EU)[!].zip
+2A3CB139FDCB1A7B931EAF88029376D0	False	-1	650735616	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Shock Wave (1994)(Electronic Arts)(US)[!][722207-2 RE2].zip
+2AE564878DAACB6D7AE6E128AB73F294	True	0	675594240	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Dragon Tycoon Edge (1995)(Sanyo)(JP)[!].zip
+2B312987A210DF51711066B61383D55E	True	0	653574144	H:\Emulation\3DO\ALL_3DO_ROMS\Multimedia\Oceans Below (1995)(Multisoft)(JP).zip
+2C250B246C01F62FF851A99BA662C82D	True	0	482656256	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Nishimura Keitarou Travel Mystery - Akugyaku no Kisetsu (1994)(Panasonic)(JP)(Disc 1 of 2)[!].zip
+2C9CB236E74ECCDA9663C658E7A3049A	True	0	564006912	H:\Emulation\3DO\ALL_3DO_ROMS\Arcade\Mad Dog II - the Lost Gold (1994)(American Laser Games)(US).zip
+2CCA9E7CA98DFFDFAA2BF3D5B36752FE	True	0	671703040	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Mahjong Gokuu Tenjiku (1994)(ASCII)(JP)[!].zip
+2D14FB2D836ED621FC86AEA7CA380C32	True	0	360280064	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Microcosm (1994)(Psygnosis)(US)[!].zip
+2D230B933FEE352BAEF9F99FB94A2779	True	0	430530560	H:\Emulation\3DO\ALL_3DO_ROMS\Coverdiscs\3DO Magazine 05 (1995)(Paragon Publishing)(GB)[!][Aug-Sep 1995].zip
+2E19BB732F177D1DEF8355A566E5893E	True	0	314884096	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Robinson's Requiem (1996)(ReadySoft - Silmarils)(US)[!].zip
+2EF34AF536900266D62CFF9795747E1E	True	0	671399936	H:\Emulation\3DO\ALL_3DO_ROMS\Samplers\Sotsugyou Graduation Final (demo) (1994)(Shar Rock)(JP).zip
+2F3C0E227DE70971CB307EF3708F327D	True	0	634699776	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Oukoku no Grand Chef (1996)(Sala International)(JP).zip
+2F5E0CD016C86BF657A33F20F1FA0214	False	-1	650731520	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Psychic Detective (1995)(Electronic Arts)(EU)(Disc 3 of 3)[!].zip
+2F5E0CD016C86BF657A33F20F1FA0214	False	-1	650735616	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Psychic Detective (1995)(Electronic Arts)(US)(Disc 3 of 3)[!].zip
+2FFDF66D027E5C02F5E25EF2B494E629	True	0	525209600	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Burning Soldier (1994)(Panasonic)(JP)(en)[!].zip
+31DDF7A99C702907E0ECF02711AE80D3	True	0	666460160	H:\Emulation\3DO\ALL_3DO_ROMS\Samplers\Sampler III and 3DO Storage Manager (1994)(Panasonic)(US).zip
+332B01021B382AD4CFDC48B0E303DD9A	True	0	657768448	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Dennou Hyouryuu - Multimedia Cruising (1995)(Hamlet)(JP)[!].zip
+3439F2FAB2766B2B52F468080ABFCBE3	True	0	650428416	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Shock Wave (1994)(Electronic Arts)(JP)[!].zip
+34DB80B6E6CC12E0C6F886CA604518C2	True	0	540327936	H:\Emulation\3DO\ALL_3DO_ROMS\Games\D (1995)(Panasonic)(EU-US)(Disc 1 of 2)[!].zip
+358608774559436174B5AF8E03E6CE4D	True	0	357130240	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Insect War (1994)(Panasonic)(JP)[!].zip
+35E0A893EF29FBD564C2FB70C1C845DF	False	-1	263067648	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Flashback - The Quest for Identity (1994)(U.S. Gold)(EU)(en-fr).zip
+35E0A893EF29FBD564C2FB70C1C845DF	False	-1	262758400	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Flashback - The Quest for Identity (1994)(U.S. Gold)(US)(en-fr)[!].zip
+37257C59AE9976C6790CB2392EFCA16E	True	0	666157056	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Scramble Cobra (1995)(Panasonic)(JP).zip
+373B6FF93249115DBEB80125F477F958	True	0	210026496	H:\Emulation\3DO\ALL_3DO_ROMS\Samplers\Theme Park (demo) (1995)(Electronic Arts)(JP).zip
+37E65A296B66E4B85FCD461801A8B4C5	True	0	675594240	H:\Emulation\3DO\ALL_3DO_ROMS\Samplers\Panasonic Special CD-ROM (1995)(Panasonic)(JP).zip
+387323441C528F58A041DF4983149B2D	True	0	241786880	H:\Emulation\3DO\ALL_3DO_ROMS\Applications\New How's 1 - Front How's '94-'95 v1.0 (1994)(National)(JP)[!].zip
+389F846BAB65DCDB8880BAD611627A77	True	0	587513856	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Alone in the Dark 2 (1995)(Infogrames)(EU).zip
+38BE8925A19B8D13535A03AD7E9CAA24	True	0	577331200	H:\Emulation\3DO\ALL_3DO_ROMS\Coverdiscs\Live! 3DO Magazine CD-ROM #05 (1994)(Tokumashoten Intermedia)(JP)[!].zip
+394F871D2B1FEBA4302449F99E59C448	True	0	638148608	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Devil's Course (1995)(Panasonic)(JP)[!].zip
+3955931D4099B598F8F6D4F780FA94A4	True	0	671707136	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Lost Files of Sherlock Holmes, The (1994)(Electronic Arts)(US)[!].zip
+397D7B82CC040BDFD73043E1A64911E7	True	0	639942656	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Ida Jiyouji Nightmare Interactive - Moon Cradle - Igyou no Hanayome (1995)(Panasonic)(JP)[!].zip
+399D48691056BF9060938624BEB7EB82	True	0	105476096	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Putt-Putt Goes to the Moon (1993)(Humongous Entertainment)(US)[!].zip
+3A1F1EFED41D03BEC90492F009605C75	True	0	671399936	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Daedalus Encounter, The (1995)(Panasonic)(US)(Disc 4 of 4)[!].zip
+3A8A81EFC63CF9031A2F6FA887B0C568	True	0	583622656	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Gakkou no Kowai Uwasa - Hanako-san ga Kita!! (1995)(Amuse)(JP)[!].zip
+3B8945709EA5A107E56EB9DA48C9E5C2	True	0	467230720	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Tarot Uranai (1995)(Ariadne)(JP)[!].zip
+3C09A9A12F2AFA43F89ACEB7AECBB1AB	True	0	553881600	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Night Trap (1994)(Virgin Games)(JP)(Disc 2 of 2)[!].zip
+3C3D712143C6E6F35075904ADFC8D759	True	0	650428416	H:\Emulation\3DO\ALL_3DO_ROMS\Coverdiscs\Live! 3DO Magazine CD-ROM #10 (1996)(Tokumashoten Intermedia)(JP)[!].zip
+3CD13D777A6FA1434C1FF0B2E50C58B0	True	0	415109120	H:\Emulation\3DO\ALL_3DO_ROMS\Multimedia\Life Stage, The - Virtual House (1994)(Panasonic)(JP)[!].zip
+3CD9645C2EB927157A187CFD60205A8B	True	0	419741696	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Striker - World Cup Special (1995)(Panasonic)(EU)[!].zip
+3D010BAC3FC82E00A96B0FC26C6C4690	False	-1	629760000	H:\Emulation\3DO\ALL_3DO_ROMS\Games\PGA Tour 96 (1995)(EA Sports)(EU)[!].zip
+3D010BAC3FC82E00A96B0FC26C6C4690	False	-1	629764096	H:\Emulation\3DO\ALL_3DO_ROMS\Games\PGA Tour 96 (1995)(EA Sports)(US)[!].zip
+4054A1320C88899712CCFA8FEC054FAB	True	0	367616000	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Alone in the Dark (1994)(Interplay)(US)[!].zip
+407B1A68AB9FAB37A83EC6089B1A8D10	False	-1	420352000	H:\Emulation\3DO\ALL_3DO_ROMS\Games\John Madden Football (1994)(EA Sports)(US)[!][722007-2 70].zip
+407B1A68AB9FAB37A83EC6089B1A8D10	False	-1	420044800	H:\Emulation\3DO\ALL_3DO_ROMS\Games\John Madden Football (1994)(EA Sports)(US)[!][722007-2 R73].zip
+4088A0DC7DF310CBEFE7B9106E6F7372	True	0	328077312	H:\Emulation\3DO\ALL_3DO_ROMS\Games\BC Racers (1995)(GoldStar)(EU-US)[!].zip
+40C37CBCD4684BCA7B2D1A5190636280	True	0	498688000	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Samurai Shodown (1994)(Crystal Dynamics)(EU-US)[!].zip
+40E389A90B13405B9C944AA011B4AA69	True	0	525209600	H:\Emulation\3DO\ALL_3DO_ROMS\Multimedia\Woody Woodpecker and Friends - Volume One (1994)(MCA Universal Home Video)(US)[!].zip
+4143AC09D6D2DF97159CA35536E69457	True	0	381554688	H:\Emulation\3DO\ALL_3DO_ROMS\Adult\Virtual Vivid (1993)(Vivid Interactive)(US)[!][GL VIRTUA RE-1].zip
+421760E87D29AC9851638E866E035395	True	0	294215680	H:\Emulation\3DO\ALL_3DO_ROMS\Applications\Nais How's 1 - Front How's '95-'96 v1.0 R2.0 (1995)(National)(JP).zip
+42238F52DEB770B72B9127DC1986DB89	True	0	438919168	H:\Emulation\3DO\ALL_3DO_ROMS\Samplers\Doraemons, The - Yuujou Densetsu (demo) (1995)(Panasonic)(JP).zip
+4250DE2A2BDD3FF276F5303CA0BCC631	False	-1	655974400	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Shockwave 2 - Beyond the Gate (1995)(Electronic Arts)(EU)(Disc 2 of 2)[!].zip
+4250DE2A2BDD3FF276F5303CA0BCC631	False	-1	655978496	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Shockwave 2 - Beyond the Gate (1995)(Electronic Arts)(US)(Disc 2 of 2)[!].zip
+428012C8FB8D501B623D3495CA95CF7A	True	0	409559040	H:\Emulation\3DO\ALL_3DO_ROMS\Multimedia\Life Stage, The - Virtual House (1993)(Panasonic)(US)[!].zip
+42D825C627DE515BDDC5399F2E2D5B53	True	0	110714880	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Quarantine (1994)(Gametek)(US)(M4)[!][439480068501RE].zip
+42E01DBD8DA277827C8BDBEF009EF32E	True	0	241786880	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Ishida Yoshio Kudan no Igo Seiha (1995)(Electronic Arts)(JP).zip
+42E169182712828C8C98400CF9DD51EC	True	0	675897344	H:\Emulation\3DO\ALL_3DO_ROMS\Multimedia\ESPN Golf - Lower Your Score With Tom Kite - Shot Making - Mental Messages (1994)(IntelliPlay)(US)[!][addon disc].zip
+42E95874796C2A2282FA5BDD680D8337	True	0	105472000	H:\Emulation\3DO\ALL_3DO_ROMS\Samplers\OverDrivin' (demo) (1994)(Electronic Arts)(JP).zip
+44C29EA7338ED47F00AE051C8E86A2DC	True	0	430227456	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Johnny Bazookatone (1996)(U.S. Gold)(US)[!].zip
+44CD5B94FB41C38188E1123B9D04AC23	True	0	655974400	H:\Emulation\3DO\ALL_3DO_ROMS\Adult\Penthouse Interactive - Virtual Photo Shoot Vol. 1 (1994)(GAGA)(JP).zip
+45862BC094A0BDD1C841291EA96E5213	False	-1	315187200	H:\Emulation\3DO\ALL_3DO_ROMS\Games\BladeForce (1995)(Studio 3DO)(EU)[!].zip
+45862BC094A0BDD1C841291EA96E5213	False	-1	315494400	H:\Emulation\3DO\ALL_3DO_ROMS\Games\BladeForce (1995)(Studio 3DO)(US)[!].zip
+461494F63D20C78631B5000E90F3AD04	True	0	577638400	H:\Emulation\3DO\ALL_3DO_ROMS\Adult\SuperModels Go Wild (1994)(Vivid Interactive)(US).zip
+46837F9BD4D87FC5844B0AFDCDE98CB6	True	0	472170496	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Super Real Mahjong P.V (1995)(Seta)(JP)[!].zip
+4720A5233A970B685DE9AC2197D78B76	True	0	86597632	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Trip'd (1995)(Panasonic)(EU-US)[!].zip
+474539D0D57CEF30F431D710BF4629F9	True	0	194600960	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Seimeihandan (1995)(Ariadne)(JP)[!].zip
+481899211DB01477C4D4F76E9259F6FA	True	0	671707136	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Brain Dead 13 Starring Fritz (1995)(ReadySoft)(US)(Disc 1 of 2)[!].zip
+4822CDBC296CE88645787443E5C1B771	True	0	589918208	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Last Bounty Hunter, The (1994)(American Laser Games)(US)[!].zip
+484EE5D178597128A532D460FD063BA2	True	0	566104064	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Mad Dog II - the Lost Gold (1994)(American Laser Games)(US)[!].zip
+491CA63834570056E7C40E83AE80D8C8	True	0	367616000	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Hirata Shiyougo Interactive Ehon - Aesop Monogatari 1 (1994)(ELCOM)(JP)(M3)[!].zip
+4987D5FCC85CF6BCA1953FE7C226510C	True	0	487899136	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Hirata Shiyougo Interactive Ehon - Shirayukihime (1994)(ELCOM)(JP)(M3).zip
+4A3E6247D6D65B76BD8F3808BF17730A	True	0	629456896	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Grimm Meisaku Gekijou 2 - Hansel to Gretel (1994)(IMA)(JP)[!].zip
+4B142039FA42A84DC354F350E81A04E6	True	0	457793536	H:\Emulation\3DO\ALL_3DO_ROMS\Multimedia\ESPN Golf - Lower Your Score With Tom Kite - Shot Making (1994)(IntelliPlay)(US)(Disc 3 of 3)[!][Ask The Pro].zip
+4B45512EE43B33AC8EFE646C79504860	True	0	220815360	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Tanjou Debut - Pure (1996)(Shar Rock)(JP)[!].zip
+4B71B984BE08553EC0C9AC9B9C5F3087	True	0	671707136	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Wing Commander III - Heart of the Tiger (1995)(Origin)(US)(Disc 1 of 4)[!].zip
+4BBE2A7BCD8FD93FEDE6111845771AA2	True	0	671703040	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Star Control II (1994)(BMG Interactive Entertainment)(JP)[!].zip
+4EB073B4BCA514699CA463AFC45C21F4	False	-1	629649408	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Crash 'n Burn (1993)(Crystal Dynamics)(US)[!][3DRM-1239120 1].zip
+4EB073B4BCA514699CA463AFC45C21F4	False	-1	629452800	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Crash 'n Burn (1993)(Crystal Dynamics)(US)[!][DFJN5002ZAZ].zip
+4F13855AA56BF866DC59A71F3411A2FD	True	0	630067200	H:\Emulation\3DO\ALL_3DO_ROMS\Coverdiscs\Live! 3DO Magazine CD-ROM #01 (1994)(Tokumashoten Intermedia)(JP)[!].zip
+4F81EDB0FF861AD176B8A7852C2974C4	True	0	655671296	H:\Emulation\3DO\ALL_3DO_ROMS\Multimedia\ESPN Let's Play Beach Volleyball with Karch Kiraly & Karolyn Kirby (1993)(IntelliPlay)(US).zip
+4F982A2AF4181D7D5F49FED1497F89D3	True	0	629456896	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Pro Yakyuu Virtual Stadium - Professional Baseball (1995)(EA Sports)(JP)[!].zip
+4FA511042BDDC00ED4F24B17E856F5CA	True	0	42864640	H:\Emulation\3DO\ALL_3DO_ROMS\Coverdiscs\3DO Magazine 07 (1995)(Paragon Publishing)(GB)[!][Dec 1995-Jan 1996].zip
+4FD2AD3A22BDDD916053747899BC0477	True	0	524599296	H:\Emulation\3DO\ALL_3DO_ROMS\Multimedia\Woody Woodpecker and Friends - Volume Two (1994)(MCA Universal Home Video)(US)[!].zip
+4FE2606765FB9ABF2901B34462C6E6A7	True	0	551424000	H:\Emulation\3DO\ALL_3DO_ROMS\Adult\Blonde Justice (1995)(Vivid Interactive)(US).zip
+50CB1443A01D5E82805EA06B45CF172C	True	0	675594240	H:\Emulation\3DO\ALL_3DO_ROMS\Multimedia\San Diego Zoo Presents...The Animals!, The (1993)(Software Toolworks)(US)[!].zip
+510DF1D6955ECC4B4932B1B9B75F4FB0	False	-1	671709184	H:\Emulation\3DO\ALL_3DO_ROMS\Games\World Cup Golf - Hyatt Dorado Beach (1994)(U.S. Gold)(EU)[!].zip
+510DF1D6955ECC4B4932B1B9B75F4FB0	False	-1	671399936	H:\Emulation\3DO\ALL_3DO_ROMS\Games\World Cup Golf - Hyatt Dorado Beach (1994)(U.S. Gold)(US)[!].zip
+52C89B6008D3284426D1C6CE9CB93181	True	0	660914176	H:\Emulation\3DO\ALL_3DO_ROMS\Samplers\3DO REAL - Tokubetsu Puremiamu CD - Hatsubai 1 Shuuren (1994)(Panasonic)(JP)[!].zip
+5352D53EC799A4D03F26121DE12A6F57	True	0	378101760	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Konpeki no Kantai (1996)(Micro Cabin)(JP)[!][FZ-SJ5751-R1M].zip
+53F1DB53FB860216EF67197BBEDF43EB	True	0	671399936	H:\Emulation\3DO\ALL_3DO_ROMS\Adult\Tokimeki Mahjong Paradise Special - Koi no Tenpai Beat (1996)(Sonnet)(JP).zip
+53FFEAE59BA206BEE1E1D5694FE7A34E	True	0	461987840	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Hirata Shiyougo Interactive Ehon - Ookami to Shichihiki no Ko Yagi (1995)(ELCOM)(JP)(M3).zip
+540990AB7BD755E6DE23435EE1A70A61	False	-1	524902400	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Burning Soldier (1994)(Panasonic)(CA).zip
+540990AB7BD755E6DE23435EE1A70A61	False	-1	525209600	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Burning Soldier (1994)(Panasonic)(US)[!].zip
+546161DF4FF6242B521C2E5D25835E38	False	-1	619274240	H:\Emulation\3DO\ALL_3DO_ROMS\Games\FIFA International Soccer (1994)(EA Sports)(EU)[!].zip
+546161DF4FF6242B521C2E5D25835E38	False	-1	619581440	H:\Emulation\3DO\ALL_3DO_ROMS\Games\FIFA International Soccer (1994)(EA Sports)(US)[!].zip
+54D01BD2DDA098C0AA93EAB9B52B05FE	True	0	526696448	H:\Emulation\3DO\ALL_3DO_ROMS\Adult\Virtual Cameraman Part 2 - Natsumi Kawai & Kimi Tachihara (1995)(Transpegasus)(JP).zip
+54F7A9368C518F885FE553E4FDE1CA5D	True	0	671399936	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Tetsujin Returns (1995)(Synergy)(JP)[!].zip
+552118C720E98630B729E9E20C785A7E	True	0	629456896	H:\Emulation\3DO\ALL_3DO_ROMS\Coverdiscs\Live! 3DO Magazine CD-ROM #07 (1995)(Tokumashoten Intermedia)(JP)[!].zip
+565A761809ABE29652317B1606D958F4	True	0	653877248	H:\Emulation\3DO\ALL_3DO_ROMS\Multimedia\ESPN Baseball - Interactive Hitting (1994)(IntelliPlay)(US)[!].zip
+56B0412920FD49A88FC966E74B239F1D	True	0	660914176	H:\Emulation\3DO\ALL_3DO_ROMS\Coverdiscs\Live! 3DO Magazine CD-ROM #06 (1995)(Tokumashoten Intermedia)(JP)[!].zip
+570B1664674ED31524411EBDCED236BF	True	0	487899136	H:\Emulation\3DO\ALL_3DO_ROMS\Games\D (1995)(Panasonic)(EU-US)(Disc 2 of 2)[!].zip
+57682912D16EEF9043F1F738F0D80AA4	True	0	126443520	H:\Emulation\3DO\ALL_3DO_ROMS\Games\AutoBahn Tokio (1995)(Panasonic)(JP)(en)[!].zip
+577657131BC32CC79DA974F0E22A6181	True	0	671707136	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Supreme Warrior - Ying Heung (1995)(Digital Pictures)(JP)(ja-zh)(Disc 1 of 2).zip
+579F9E390C18585E283B1BF54DA4C653	True	0	309944320	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Jammit (1994)(GTE)(US)[!].zip
+57CA710F7940C2609EE20530C35B5471	True	0	629456896	H:\Emulation\3DO\ALL_3DO_ROMS\Coverdiscs\Live! 3DO Magazine CD-ROM #08 (1995)(Tokumashoten Intermedia)(JP)[!].zip
+58478FFCAD97D0BF6FE07A381831B291	True	0	472473600	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Defcon 5 (1995)(GoldStar)(EU)[!].zip
+58541D424E3F749040D7FEE5B386DE33	True	0	671399936	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Creature Shock (1995)(Virgin)(US)(Disc 2 of 2)[!].zip
+592414E427D5F8C1679F3D3F7677DF87	True	0	655974400	H:\Emulation\3DO\ALL_3DO_ROMS\Multimedia\ESPN Let's Play Tennis with Tracy Austin (1994)(IntelliPlay)(US).zip
+59438A82F219EFEF3BEC66C8811D1B9D	True	0	63531008	H:\Emulation\3DO\ALL_3DO_ROMS\Coverdiscs\3DO Magazine 13 (1996)(Paragon Publishing)(GB)[!][Aug 1996].zip
+59449A9AEAD82B4B3F4F759F8466F287	True	0	472473600	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Return Fire v1.0 F322.1.3 (1995)(Silent Software)(EU-JP)(M10)[!].zip
+59635D92EA835AE8ABAFA15BD8C79E87	True	0	661221376	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Cyberia (1996)(Interplay)(US)[!].zip
+5A15E98FE96913C19DF642A9D483383E	True	0	525209600	H:\Emulation\3DO\ALL_3DO_ROMS\Adult\Immortal Desire (1994)(Vivid Interactive)(US).zip
+5AEF969F15B4FBC161B0AFFE22CD1B6C	True	0	150558720	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Totsugeki Kikan! Megadasu!! (1994)(Warp)(JP).zip
+5C06BA45D0846D40615C694EEC972B83	True	0	644136960	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Jikki Pachi Slot Simulator Vol. 1 (1995)(Electronic Arts)(JP).zip
+5C2D0A6C2DABAB217896D201A5451255	True	0	629456896	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Sento Monogatari - Sono 1 (1995)(Ariadne)(JP)[!].zip
+5C93AAD6E0DA441344476EB4CC4C5CC1	False	-1	310689792	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Super Street Fighter II Turbo (1994)(Panasonic)(US)[!][FZSM3851].zip
+5C93AAD6E0DA441344476EB4CC4C5CC1	False	-1	310996992	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Super Street Fighter II Turbo (1994)(Panasonic)(US)[SM3851-2 RE2].zip
+5D319FD0219CAEE4950895C183682E52	True	0	524902400	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Burning Soldier (1994)(Panasonic)(EU)[!].zip
+5E4BB886B250EB6D63A0A88BA1161EEC	True	0	3760128	H:\Emulation\3DO\ALL_3DO_ROMS\Applications\3DO Storage Manager v2.1 (1994)(3DO Company)(JP)(en).zip
+5EB874A30BD72FB86639C07BB6BDE7B0	True	0	597999616	H:\Emulation\3DO\ALL_3DO_ROMS\Games\D's Diner - The Director's Cut (1996)(Warp)(JP)(Disc 2 of 3)[!][Disk B].zip
+5ED9845F9015B1788A4801185B183D13	True	0	210026496	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Casper (1996)(Interplay)(NTSC)(US)[!].zip
+5EDBF3C56117932B21AFC3C303932D9A	True	0	273244160	H:\Emulation\3DO\ALL_3DO_ROMS\Games\V Goal Soccer '96 (1996)(Tecmo)(JP)(en).zip
+5F35DA9AA16286944422560A32D11E5E	True	0	144269312	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Bust-A-Move (1995)(Taito)(US).zip
+5F9DC1B9940B57A5E8B79CA78C842134	True	0	323573760	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Way of the Warrior (1994)(Interplay)(PAL)(EU)[!].zip
+5FAF952A0C5FFB90447EFFBD0C90C19C	True	0	617922560	H:\Emulation\3DO\ALL_3DO_ROMS\Adult\Onee-san to Isshoo! Kise Kae Paradise (1995)(BSS)(JP).zip
+5FD8ECEA849E2DF4FFCA8E9537D1FD5C	True	0	399380480	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Pebble Beach no Hatou (1994)(Panasonic)(JP)[!].zip
+607D1227956F34A4F5C83E6856706A0D	True	0	47800320	H:\Emulation\3DO\ALL_3DO_ROMS\Samplers\AutoBahn Tokio (demo) (1995)(Panasonic)(JP)(en)[!].zip
+61320CFA876029D8B1E1FC437D5D9427	True	0	74014720	H:\Emulation\3DO\ALL_3DO_ROMS\Samplers\Totsugeki Kikan! Megadasu!! (demo) (1994)(Warp)(JP).zip
+6173B83158D60226C4495C3518429982	True	0	524906496	H:\Emulation\3DO\ALL_3DO_ROMS\Adult\Coven, The (1994)(Vivid Interactive)(US).zip
+6189250AECDB3282B3C0F340C870A806	False	-1	629762048	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Phoenix 3 (1995)(Studio 3DO)(EU)[!].zip
+6189250AECDB3282B3C0F340C870A806	False	-1	629456896	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Phoenix 3 (1995)(Studio 3DO)(US)[!].zip
+6233C7D6E5499C0E1FB7099F46528E6B	False	-1	467230720	H:\Emulation\3DO\ALL_3DO_ROMS\Coverdiscs\3DO Magazine 01 (1994)(Paragon Publishing)(GB)[!].zip
+6233C7D6E5499C0E1FB7099F46528E6B	False	-1	467537920	H:\Emulation\3DO\ALL_3DO_ROMS\Samplers\3DO Interactive Sampler CD, The (1994)(3DO Company)(US)[!].zip
+62A958BFF417AC75B3F12535696D7F75	True	0	581222400	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Fun 'n Games - Soft no Omochabai (1994)(Virgin)(JP)(en-ja)[!].zip
+62B65B88251DD5BE2AE95B0990974FA3	True	0	671399936	H:\Emulation\3DO\ALL_3DO_ROMS\Coverdiscs\Live! 3DO Magazine CD-ROM #11 (1996)(Tokumashoten Intermedia)(JP)[!].zip
+6389E644D55587E76DBF987D3E14ABF0	True	0	524902400	H:\Emulation\3DO\ALL_3DO_ROMS\Adult\Mahjongkyou Jidai - Cogal Houkago Hen (1995)(Micronet)(JP).zip
+6500B5F594502861B4E06F4BBB792011	True	0	251969536	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Winning Post (1994)(KOEI)(JP)[!].zip
+65C70C00963F6DD6FBCF9B98F3ED908F	True	0	566845440	H:\Emulation\3DO\ALL_3DO_ROMS\Samplers\Sample This! (1994)(Crystal Dynamics)(JP-US)[!][Crystal Dynamics - Best Selection].zip
+66AB1B5A003622725AFF5B2059670CAF	True	0	472170496	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Blood Angels - Space Hulk (1995)(Electronic Arts)(JP).zip
+671F264FD24E25AFE0484781DB3B733B	True	0	420044800	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Sotsugyou II - Neo Generation Special (1995)(Shar Rock)(JP)[!].zip
+68A6CAA8DF1175ADA77403F16C2B268F	True	0	377798656	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Konpeki no Kantai (1996)(Micro Cabin)(JP)[!][FZ-SJ5751-2-R1C].zip
+68D10B33D527ECDDB8EE5A5D38F27DD9	True	0	493752320	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Takeru (1994)(Panasonic)(JP)[!].zip
+6952489BD5D621B1938308461054B827	True	0	619581440	H:\Emulation\3DO\ALL_3DO_ROMS\Multimedia\Dennis Miller - That's News To Me (1994)(Sanctuary Woods)(US)[!].zip
+6960C895356F05C73F16E3AC32E7A646	True	0	420352000	H:\Emulation\3DO\ALL_3DO_ROMS\Games\PO'ed (1995)(Studio 3DO)(EU-US)[!].zip
+69683B56BFDC9D1176112915BDBE0FFB	True	0	200151040	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Foes of Ali (1995)(EA Sports)(US)[!].zip
+69D00B1514EB7ED0885C425BEE014B47	True	0	331964416	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Virtuoso (1994)(Elite)(EU)(M3)[!].zip
+69E17A14CA0E4C5704F4D748A2989545	True	0	349790208	H:\Emulation\3DO\ALL_3DO_ROMS\Adult\Mahjongkyou Jidai - AV Gal Seifuku Hen (1994)(Micronet)(JP)[!].zip
+6A7D94E6A26CE99A32E9877E6273B5C5	True	0	639942656	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Chiki Chiki Machine Mou-Race 2 - In Space (1995)(Future Pirates)(JP)[!].zip
+6AF535F30A84F264BF1F003E663DE3A9	True	0	360273920	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Microcosm (1994)(T&E Soft)(JP)[!].zip
+6B36C79F90FD8787A49F82FA6DF86A8C	True	0	378408960	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Tetsujin (1994)(Panasonic)(JP)[!].zip
+6B3DFF1EBCA7E61DA1C944BEBF13DFDB	False	-1	675594240	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Killing Time (1995)(Studio 3DO)(EU)[!].zip
+6B3DFF1EBCA7E61DA1C944BEBF13DFDB	False	-1	675901440	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Killing Time v3.5 (1995)(Studio 3DO)(US)[!].zip
+6B62AEA285309EE736C34487999DE53C	True	0	63528960	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Putt-Putt's Fun Pack (1994)(Media Vision)(JP)[!].zip
+6C09A86D75F0E8F2ECB943E45F2F50E3	True	0	394876928	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Alone in the Dark (1994)(Infogrames)(EU).zip
+6C0A1159C3EB939D6F9499611A1F589E	True	0	513368064	H:\Emulation\3DO\ALL_3DO_ROMS\Multimedia\Space Shuttle (1993)(Software Toolworks)(US)[!].zip
+6C0F6E97EB9C8A4F64A3BDC43E561D8C	True	0	482959360	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Pyramid Intruder (1995)(Taito)(JP)(en)[!].zip
+6C33A01628807484F81FA2EEB27C90A7	True	0	513368064	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Kero Kero Keroppi to Origami no Tabibito (1995)(Mizuki)(JP)[!].zip
+6C890392FEA425E303C121E9910FAA94	True	0	524595200	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Off-world Interceptor (1994)(Crystal Dynamics)(EU-US)[!].zip
+6D0C7EBFC0D699C997B5C3E7DA479741	True	0	194600960	H:\Emulation\3DO\ALL_3DO_ROMS\Samplers\Bishoujo Senshi Sailor Moon S (demo) (1995)(Panasonic)(JP).zip
+6D5AA79BA4B491560233F8A9EF13C74D	True	0	551116800	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\DinoPark Tycoon (1994)(MECC)(US).zip
+6E02935F98EAFD4A5F07B6115617CE6C	True	0	94986240	H:\Emulation\3DO\ALL_3DO_ROMS\Samplers\Sword & Sorcery (demo) (1995)(Micro Cabin)(JP)[!].zip
+6E1E2CB9B864FAF9495C0C7CF03C4EBD	True	0	398770176	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Jurassic Park Interactive (1994)(Universal Interactive Studios)(US)[!].zip
+6E994B8B16121353A11F219D3150C51A	True	0	671399936	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Wing Commander III - Heart of the Tiger (1995)(Origin)(EU-US)(Disc 1 of 4)[!].zip
+6F3092609EA11616F5EDCA123C9E0BF8	True	0	404316160	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Gex (1995)(Crystal Dynamics)(EU-US)[!].zip
+6F3918ECE812B69AF5E68D4AC1FDBC4F	True	0	629456896	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Policenauts - Pilot Disk (1995)(Konami)(JP)[!].zip
+6F9E86655DC2739FE842925B64272AED	True	0	162840576	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Ogura Hyakunin Isshuu (1995)(Vansoft)(JP).zip
+708FD72E649EBAD18B992A965AF01871	True	0	472170496	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Return Fire v1.0 F306.1.2 (1994)(Prolific - Silent Software)(EU-US)[!].zip
+70EF89A2C32357EB69033FDD67C987CA	True	0	630067200	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Shock Wave (1994)(Electronic Arts)(US)[!][722207-2 RE1].zip
+71734F9E3DA4D1ACCD10B7FCD07F101C	True	0	671703040	H:\Emulation\3DO\ALL_3DO_ROMS\Adult\Twinkle Knights (1995)(Intarus)(JP).zip
+71FE3A9C33AE8B5FB35F8FDF6157F70F	True	0	396232704	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Pararancho - The Incredible Machine (1994)(T&E Soft)(JP)[!].zip
+7255FD50E97669F6B5F924185B8ACBDC	True	0	655978496	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Corpse Killer (1994)(Digital Pictures)(US)[!].zip
+726C26451C0FC67A4E3C6CAF192E5348	True	0	315187200	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Shock Wave - Operation JumpGate (1994)(Electronic Arts)(EU-US)[!][data disc].zip
+72B385F88F27108C9A0FB2F01440988C	False	-1	650428416	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Twisted - The Game Show (1993)(Electronic Arts)(US)[!][730807-2 R73].zip
+72B385F88F27108C9A0FB2F01440988C	False	-1	650735616	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Twisted - The Game Show (1993)(Electronic Arts)(US)[730807-2 70].zip
+746900AD37F13DDEEBA25068A23935C7	True	0	367616000	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Virtuoso (1995)(Data East)(US)[!].zip
+7566081C82ECAD05C0AB35A475E55D78	True	0	294215680	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Cannon Fodder (1994)(Virgin)(US)[!].zip
+756FB472E7C502CB6EC18CD737A594C0	True	0	556666880	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Soccer Kid (1994)(Studio 3DO)(US)[!].zip
+769B103B80E2B813FA5AF74228D8E5AE	True	0	545570816	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Olympic Summer Games (1996)(Panasonic)(US)[!].zip
+77851486CBE0FC7DCB7D486A6C44F66F	True	0	650428416	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Nishimura Keitarou Travel Mystery - Akugyaku no Kisetsu (1994)(Panasonic)(JP)(Disc 2 of 2)[!].zip
+779D72D8E78983F944245E934C2AADEE	True	0	671399936	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Wing Commander III - Heart of the Tiger (1995)(Origin)(EU-US)(Disc 3 of 4)[!].zip
+786DD2B663EF423C8F58BCB472549105	True	0	351891456	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Shelley Duvall's It's A Bird's Life (1992)(Sanctuary Woods)(US)[!].zip
+7882F194EC75A03D120E30679A47CF63	True	0	671399936	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Daedalus Encounter - Episode 1 - Nanpasen no Alien (1995)(HATNET)(JP)(Disc 3 of 4)[!].zip
+78860274397D9BCDEFFF1F917C202005	True	0	671399936	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Daedalus Encounter - Episode 1 - Nanpasen no Alien (1995)(HATNET)(JP)(Disc 1 of 4)[!].zip
+78957D1F6836525968CB00EA06B00AB6	True	0	367620096	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Mad Dog McCree (1993)(American Laser Games)(US)[!].zip
+7916E9020085071F2EB05B920FB0106B	True	0	336158720	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Nontan to Issho - Nohara de Asobo (1994)(Panasonic)(JP)[!].zip
+799D758951E34316662E4203C0A47A0F	True	0	524902400	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Off-world Interceptor (1994)(BMG Interactive Entertainment)(JP)(en)[!].zip
+79B222ECC211AB4FD4629065BB4443F8	False	-1	105164800	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Slam 'N Jam '95 (1994)(Crystal Dynamics)(EU-US)[!].zip
+79B222ECC211AB4FD4629065BB4443F8	False	-1	105168896	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Slam 'N Jam '95 (1995)(Crystal Dynamics)(US)[!].zip
+7A1DD8B0CA3B99828A86FE4D4900C709	True	0	566845440	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Super Wing Commander (1994)(Origin)(US)[!].zip
+7ABB1B32269E342E564D70EC4DA7C620	True	0	556359680	H:\Emulation\3DO\ALL_3DO_ROMS\Multimedia\Marine Tour - Diving Spot Guide (1994)(Office Create)(JP)[!].zip
+7AC6DCEAF0FC41BE38ADF27F3AF029EB	True	0	587513856	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Alone in the Dark 2 (1995)(Electronic Arts)(JP)[!].zip
+7B54B3450ED95B77CA85C7B9A1925523	True	0	671399936	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Road Rash (1994)(Electronic Arts)(EU)[a].zip
+7B7F413E51FF72981314A2FF4BFBC3BD	True	0	582270976	H:\Emulation\3DO\ALL_3DO_ROMS\Games\D's Diner - The Director's Cut (1996)(Warp)(JP)(Disc 3 of 3)[!][Disk C].zip
+7BD10974C0DE35064D353E1F6911D279	True	0	650428416	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Zhadnost - The Peoples Party (1995)(Studio 3DO)(EU)[!].zip
+7BDA5F80C8466E4C60E641D158FF5DC7	True	0	493445120	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Yuu Yuu Hakusho (1994)(Tomy)(JP)[!].zip
+7C1E54AAA95EE74B8FD075BBA1F785DF	True	0	537182208	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Tower, The (1996)(OPeNBooK)(JP)[!].zip
+7C348D70EA8E91BAAD6EED95125891D0	True	0	378101760	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Iron Angel of the Apocalypse (1994)(Synergy)(US)[!].zip
+7C5C1D9393DABA26BEEB12446BC41FD2	True	0	524902400	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Seal of the Pharaoh (1994)(Panasonic)(US)[!].zip
+7C62CA7B45FCCC9527B6E59E8095EE25	True	0	175726592	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Kyuusei Uranai Niyoru Heisei Kaiun Koyomi (1994)(Ariadne)(JP)[!].zip
+7C91B1F0EB75F2AD63DEF3663CB620DE	True	0	241786880	H:\Emulation\3DO\ALL_3DO_ROMS\Games\EMIT Vol. 1 - Toki no Maigo (1995)(KOEI)(JP)[!].zip
+7D5BE5D229695C3064A100F8FAF46EB0	True	0	105472000	H:\Emulation\3DO\ALL_3DO_ROMS\Samplers\Shock Wave - Operation JumpGate (demo) (1995)(Electronic Arts)(JP)[!].zip
+7E6BA38DCC0D4D3B1AC22A4DD22CCE27	True	0	660914176	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Cyberia (1996)(Interplay)(JP).zip
+7EF7A367FBF5D6F6D14357A4D2A0C0BE	True	0	315187200	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Lost Dungeon (1995)(T&E Soft)(JP)[!].zip
+7F86B12A8DAAFF7960309D3B0C9E0D4A	True	0	666460160	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Scramble Cobra (1994)(Panasonic)(EU)[!].zip
+80F26A5AC516BBCC4D90B7D8545A08AE	True	0	666157056	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Scramble Cobra (1995)(Panasonic)(US)[!].zip
+813303C46452BCFD8B1F7678A4F0921A	True	0	671707136	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Wing Commander III - Heart of the Tiger (1995)(Origin)(US)(Disc 2 of 4)[!].zip
+815330BA96102E52087B31911346CC84	False	-1	671703040	H:\Emulation\3DO\ALL_3DO_ROMS\Games\MegaRace (1994)(Mindscape)(EU-US)(M5)[!].zip
+815330BA96102E52087B31911346CC84	False	-1	672010240	H:\Emulation\3DO\ALL_3DO_ROMS\Games\MegaRace (1994)(Mindscape)(US)(M5).zip
+8361A53DAEF7E46BA8E89C38A8A4D1BB	True	0	408817664	H:\Emulation\3DO\ALL_3DO_ROMS\Adult\Virtual Vivid (1994)(Vivid Interactive)(US)[GL VIRTUA].zip
+84BE015082043E3E80639CEFF7801ADC	True	0	399073280	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Jurassic Park Interactive (1994)(Panasonic)(JP)[!].zip
+850A8A945176D53F64D069840226CBC2	False	-1	420044800	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Space Hulk - Vengeance of the Blood Angels (1995)(Electronic Arts)(EU)[!].zip
+850A8A945176D53F64D069840226CBC2	False	-1	420048896	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Space Hulk - Vengeance of the Blood Angels (1995)(Electronic Arts)(US)[!].zip
+8557B51150012CC0765BD8D9C8E6B484	True	0	126443520	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Fatty Bear's Birthday Surprise - Fatty Bear no Bikkuri Tanjoubi! (1995)(Media Vision)(JP)(en-ja).zip
+85A236FB411D32EC37AF06B9AEC2CED6	False	-1	210333696	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Dragon's Lair (1993)(ReadySoft)(US)[!][DH 65003].zip
+85A236FB411D32EC37AF06B9AEC2CED6	False	-1	210636800	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Dragon's Lair (1993)(ReadySoft)(US)[!][DH 65003-2].zip
+85B7476C372E3F4FC891AD6238D36013	True	0	172580864	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Uchuu Seifutsu Furopon-kun (1994)(San-Ei Shobo Publishing)(JP)[!].zip
+85C2FC74124327A85F0EF0DEF00F9ACD	True	0	675594240	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Quarterback Attack - The Professional Quarterback Simulator (1995)(Digital Pictures)(US)[!].zip
+85FDB9C416032F234A4B3B1582C81123	True	0	47800320	H:\Emulation\3DO\ALL_3DO_ROMS\Samplers\Daedalus Encounter - Episode 1 - Nanpasen no Alien (demo) (1995)(HATNET)(JP).zip
+8662B398698AF215A25E2475FA6FCDB7	True	0	420044800	H:\Emulation\3DO\ALL_3DO_ROMS\Games\NFL Madden Football (1994)(EA Sports)(JP)[!].zip
+866BD06DDD80DBA3A4EDDA4BC9F37A64	True	0	472473600	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Escape from Monster Manor - A Terrifying Hunt for the Undead (1993)(Electronic Arts)(EU)[!].zip
+8678D347E8EC56C6BD41BE248EDE4870	True	0	441016320	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Hirata Shiyougo Interactive Ehon - Sanbiki no Kobuta (1994)(ELCOM)(JP)(M3).zip
+8846653A245242A5495ED86EC6875754	True	0	40460288	H:\Emulation\3DO\ALL_3DO_ROMS\Samplers\Uchuu Seifutsu Furopon-kun 2 (demo) (1995)(Warp)(JP)(en).zip
+888D2538E982DAC27018F447EFE6FAA2	True	0	671707136	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Wing Commander III - Heart of the Tiger (1995)(Origin)(US)(Disc 3 of 4).zip
+890E68EA46753020E4B665A1F2A98EAD	True	0	650428416	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Myst (1995)(Panasonic)(JP)[!][FZ-SJ0204 1].zip
+8B1383BEE115339E416F1CB5400A0803	True	0	535388160	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Nobunaga no Yabou - Haouden (1994)(KOEI)(JP)[!].zip
+8B7AFED7094B00E0BB94A8589A679D7A	True	0	671707136	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Brain Dead 13 Starring Fritz v1.1 (1995)(ReadySoft)(US)(Disc 1 of 2)[!].zip
+8BA928F7512E21F85D5DF477EE4784D0	True	0	439226368	H:\Emulation\3DO\ALL_3DO_ROMS\Adult\Sex (1994)(Vivid Interactive)(US).zip
+8BE2B858712FB764141280D151551B73	True	0	310689792	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Super Street Fighter II X - Grand Master Challenge (1994)(Capcom)(JP)[!].zip
+8C3408B5F1921E02658D426B637CDCEE	True	0	199843840	H:\Emulation\3DO\ALL_3DO_ROMS\Samplers\V Goal Soccer '96 (demo) (1996)(Tecmo)(JP)(en)[!].zip
+8C85B5FC7E2D37C0023C717E7827F90C	True	0	629760000	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Outer World (1994)(Electronic Arts)(JP)(en)[!].zip
+8D1EB56F0C2D817A0D9F2F6303AE0979	True	0	561602560	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Oyaji Hunter Mahjong (1995)(Warp)(JP)[!].zip
+8DD86593A9054DE1937C8E08EAF25855	True	0	461987840	H:\Emulation\3DO\ALL_3DO_ROMS\Samplers\Interplay 3DO Buffet, The (1995)(Interplay)(US)[!].zip
+8E876326DC40344933E3E305A046E90D	True	0	577028096	H:\Emulation\3DO\ALL_3DO_ROMS\Games\StarBlade (1994)(Panasonic)(EU)[!].zip
+8F21ED602704594AA4E9A02DC2EC7E8D	True	0	671399936	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Daedalus Encounter, The (1995)(Panasonic)(US)(Disc 3 of 4)[!].zip
+8F3C8A9687F5DEE069C8C21E24DAFC5D	True	0	461684736	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Star Wars - Rebel Assault v1.0J (1993)(Electronic Arts)(JP)[!].zip
+8F93D23A8D75F592F2C49FF9D152ED37	True	0	472473600	H:\Emulation\3DO\ALL_3DO_ROMS\Multimedia\Worldcup Super Stadium (1995)(GAGA)(JP).zip
+901C3D156AED31080D756EDC2CEA51C1	False	-1	630067200	H:\Emulation\3DO\ALL_3DO_ROMS\Samplers\3DO Interactive Sampler CD #3, The (1995)(3DO Company)(US)[!].zip
+901C3D156AED31080D756EDC2CEA51C1	False	-1	629456896	H:\Emulation\3DO\ALL_3DO_ROMS\Samplers\3DO Multi Game Sampler Number 3, The (1995)(3DO Company)(EU)[!].zip
+903A24BD4F327916399EBE4E3EEC8F8A	True	0	126750720	H:\Emulation\3DO\ALL_3DO_ROMS\Arcade\Shootout at Old Tucson (1994)(American Laser Games)(US).zip
+90D5A93E20F1A531FF66775F650E8057	True	0	461684736	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Hirata Shiyougo Interactive Ehon - Ningyohime (1994)(ELCOM)(JP)(M3).zip
+92033D62C25D29A63BC7B95D2E7BBD38	True	0	42864640	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Kakinoki Shogi (1994)(Panasonic)(JP)[!].zip
+92D467ADF53416CB1A9929D387ABDAC0	True	0	660914176	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Strahl (1995)(Panasonic)(US)[!].zip
+9333650F3120DA268C959DB9B542E31A	True	0	147415040	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Battle Pinball (1994)(Panasonic)(JP)[!].zip
+93672CD241877967A612D9FC4BE2D8B3	True	0	420048896	H:\Emulation\3DO\ALL_3DO_ROMS\Samplers\Panasonic REAL 3DO Interactive Multiplayer - Demonstration CD (1993)(Panasonic)(US).zip
+939E7D86176D707D21E67BC381F4B075	True	0	199843840	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Sword & Sorcery (1995)(Micro Cabin)(JP)[!].zip
+93D1450D8222F45AACFB7682AC6C3D2E	True	0	577028096	H:\Emulation\3DO\ALL_3DO_ROMS\Coverdiscs\Live! 3DO Magazine CD-ROM #09 (1996)(Tokumashoten Intermedia)(JP)[!].zip
+9503C157FC2AB0A6ACE9E67A315E7B6A	True	0	671399936	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Star Control II (1994)(Crystal Dynamics)(EU-US)[!].zip
+952588D02926BE659F498DEBC0F2D1D3	True	0	598302720	H:\Emulation\3DO\ALL_3DO_ROMS\Multimedia\ESPN Let's Go Skiing with Picabo Street, A. J. Kitt & Holly Flanders (1994)(IntelliPlay)(US)[!].zip
+955C32B7B88270E7AECA9248755892A4	True	0	420044800	H:\Emulation\3DO\ALL_3DO_ROMS\Samplers\Scramble Cobra (demo) (1995)(Panasonic)(JP).zip
+968F189CE4936971A4B284CE40B60553	True	0	97083392	H:\Emulation\3DO\ALL_3DO_ROMS\Samplers\Shock Wave (demo) (1994)(Electronic Arts)(JP).zip
+96C6EF086544A212D405548339AE5313	True	0	143966208	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Puzzle Bobble (1995)(Micro Cabin)(JP)[!].zip
+96D76C770570604D441EF020FB69DB26	True	0	629456896	H:\Emulation\3DO\ALL_3DO_ROMS\Multimedia\Carrier - Fortress at Sea (1995)(Panasonic)(US).zip
+96EB5F7B994567BC7A4B07AF98B13993	True	0	599355392	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Drug Wars (1995)(American Laser Games)(US)[!].zip
+9714E5723177D705EA6D1BBE333BE46C	True	0	283426816	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Battle Chess (1993)(Interplay)(JP)[!].zip
+97C8124DB5854CD25FE086E283894272	True	0	226058240	H:\Emulation\3DO\ALL_3DO_ROMS\Games\EMIT Vol. 2 - Meigake no Tabi (1995)(KOEI)(JP)[!].zip
+97C8369CCE5261F4620863AE06E7F391	True	0	541679616	H:\Emulation\3DO\ALL_3DO_ROMS\Games\DeathKeep (1995)(SSi)(US)[!].zip
+97D93415EA735399C58D72F31188E110	True	0	570736640	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Olympic Soccer (1996)(Panasonic)(US)(M5)[!].zip
+97EC872927D1C464E9DB595571454E98	True	0	472477696	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Escape from Monster Manor - A Terrifying Hunt for the Undead (1993)(Electronic Arts)(US)[!].zip
+97FC47C1E65F7A5544DD1B10EDE926A3	False	2121	577331200	H:\Emulation\3DO\ALL_3DO_ROMS\Games\StarBlade (1994)(Namco)(JP)(en)[!].zip
+97FC47C1E65F7A5544DD1B10EDE926A3	False	-1	577331200	H:\Emulation\3DO\ALL_3DO_ROMS\Games\StarBlade (1994)(Panasonic)(CA)[!].zip
+97FC47C1E65F7A5544DD1B10EDE926A3	False	-1	577638400	H:\Emulation\3DO\ALL_3DO_ROMS\Games\StarBlade (1994)(Panasonic)(US)[!].zip
+98962FCD9D97AE76DED4FBB3EC79D6E6	True	0	676151296	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Captain Quazar (1996)(Studio 3DO)(JP).zip
+9965A3456416DEE7A5B551118C4FB5C2	True	0	629764096	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Slopestyle - An Interactive Learning Cube (1994)(L3)(US)[!].zip
+9A992FE1763D4576A95363ABD609C363	False	-1	112812032	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Syndicate (1995)(Electronic Arts)(EU)[!].zip
+9A992FE1763D4576A95363ABD609C363	False	-1	113119232	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Syndicate (1995)(Electronic Arts)(US)[!].zip
+9AEE3861E9C6348B23B20817219CBC17	True	0	524615680	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Touhaiden Akagi (1996)(Micronet)(JP).zip
+9B165D61FA19337D18018753C893C6DC	True	0	587673600	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Alone in the Dark 2 (1995)(Interplay)(US)[!].zip
+9B7CE536D80C560235946BBD529824DE	True	0	671703040	H:\Emulation\3DO\ALL_3DO_ROMS\Games\J.League Virtual Stadium (1994)(EA Sports)(JP)[!].zip
+9BAB0EBC5938F90FC31548611FD06C87	True	0	676458496	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Night Trap (1993)(Digital Pictures)(US)(Disc 1 of 2)[!].zip
+9BB1C92FFA9D207C6ECACB50CD6D96A3	True	0	648634368	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Tsuukai Gameshow - Twisted (1994)(Electronic Arts)(JP)[!].zip
+9BD08F3F5DA6AFE6722DC1E0AD1060A9	True	0	646057984	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Night Trap (1994)(Virgin Games)(JP)(Disc 1 of 2)[!].zip
+9C03A1025CA5C29B6EA2840E9E1527F0	True	0	597999616	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Bishoujo Senshi Sailor Moon S (1995)(Bandai)(JP)[!].zip
+9C165D7CF890F607D358AB2CE8520576	True	0	67420160	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Naoko to Hide Suekane - Sansuu no Tensai 1 (1995)(Gakuman)(JP).zip
+9C337398BB475B7939FD06F8287A4E5A	False	-1	310251520	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Slayer (1994)(Mindscape)(EU)[!].zip
+9C337398BB475B7939FD06F8287A4E5A	False	-1	309948416	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Slayer (1994)(SSi)(US)[!][02500-21].zip
+9C337398BB475B7939FD06F8287A4E5A	False	-1	309944320	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Slayer (1994)(SSi)(US)[!][SLAYER R1J].zip
+9D980C9D3DC89B17F2C036737FE00711	True	0	514416640	H:\Emulation\3DO\ALL_3DO_ROMS\Games\PaTaank (1994)(PF.Magic)(EU-US)[!].zip
+9DD4C86EA31B34AADBC857F9F5829B10	True	0	405364736	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Furopon World (1995)(Warp)(JP).zip
+9E9145E22F20DFA0819A302EAB91C69B	True	0	666157056	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Policenauts (1995)(Konami)(JP)(Disc 1 of 2)[!].zip
+9E9633BB32A7ED67D243FBC21570D06C	True	0	671703040	H:\Emulation\3DO\ALL_3DO_ROMS\Multimedia\ESPN Let's Play Soccer with John Harkes and Mia Hamm (1994)(IntelliPlay)(US)[!].zip
+A05A60C9C048C1CAB07B974669FBEF56	True	0	560250880	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Samurai Shodown (1994)(BMG Interactive Entertainment)(JP)(en-ja)[!].zip
+A0CB5F067BCD088D9D07A08A46C18A19	True	0	617177088	H:\Emulation\3DO\ALL_3DO_ROMS\Adult\Plumbers Don't Wear Ties (1994)(Kirin Entertainment)(US)[!].zip
+A16ADA1C93E9A0794F22DFBEFA293B44	True	0	582574080	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Rise of the Robots (1995)(Absolute)(US)(M3)[!].zip
+A1A51083FE85838132CD79BBC2F76275	True	0	420352000	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Johnny Bazookatone (1995)(U.S. Gold)(EU).zip
+A1D6D38BD20ED9A08823E8CF623E43FF	True	0	51251200	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Fire Ball !! (1994)(Panasonic)(JP)[FZ-SJ0801 1].zip
+A2E3004918F4C717619ED79B3569D5A0	True	0	661524480	H:\Emulation\3DO\ALL_3DO_ROMS\Coverdiscs\Live! 3DO Magazine CD-ROM #02 (1994)(Tokumashoten Intermedia)(JP)[!].zip
+A348743DA94579A32B8D13E2AC3E60D1	True	0	441016320	H:\Emulation\3DO\ALL_3DO_ROMS\Multimedia\Digital Dreamware (1995)(Virgin)(US)[!].zip
+A4F0B77E9804479A40355E6F9E5D17D2	True	0	630067200	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Ultraman Powered (1994)(Bandai)(JP)[!].zip
+A51BB374A467E73F9B75A964FD18A5ED	True	0	524902400	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Super Wing Commander (1994)(Electronic Arts)(JP)[!].zip
+A53C6465BFC8A77162CEE1BCDB31F2F9	True	0	676761600	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Sewer Shark (1994)(Digital Pictures)(US)[!].zip
+A558E6CD3082CDD77B3BEFC02016AC2B	False	-1	336465920	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Total Eclipse (1993)(Crystal Dynamics)(US)[!][DFJN5015ZAZ].zip
+A558E6CD3082CDD77B3BEFC02016AC2B	False	-1	336158720	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Total Eclipse (1993)(Crystal Dynamics)(US)[61203].zip
+A5ACED8AC1604B02EDE4FA24660BD9C4	True	0	665108480	H:\Emulation\3DO\ALL_3DO_ROMS\Games\J. B. Harold - Blue Chicago Blues (1995)(Riverhill Soft)(JP)(Disc 2 of 2)[!].zip
+A5B6F49410E9FDDFE83CCCA6C7CB728D	True	0	493445120	H:\Emulation\3DO\ALL_3DO_ROMS\Games\D no Shokutaku (1995)(San-Ei Shobo Publishing)(JP)(Disc 2 of 2)[!].zip
+A650952B8623C9C87049E6A8EC55860F	True	0	483266560	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Chiki Chiki Machine Mou-Race (1994)(Future Pirates)(JP)[!].zip
+A68F034D3BA41A35716F2E32C1E47640	True	0	367616000	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Peperon Mura no Shiki (1995)(Marubeni)(JP).zip
+A68F6C3B6ABE592C026E321168597B55	True	0	597999616	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Goal FH (1995)(Carrozzeria Japan)(JP)[!].zip
+A8A9B0486D283A372E53773D5E8D9277	True	0	272941056	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Battle Chess (1993)(Interplay)(US)[!].zip
+A8C2D01DCA2CC0A47FC4613CDE260766	True	0	420352000	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Space Ace (1995)(ReadySoft)(US)[DH 65008].zip
+ABD56A6BEA11AEFA98069B7F90DADBD6	True	0	504238080	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Virtual Horror - Norowareta Tachi (1994)(Electronic Arts)(JP)[!].zip
+ABFC5CDE8C059780A54B64E8D157A8D4	True	0	157900800	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Super Real Mahjong PIV + Aishou Shindan (1994)(Seta)(JP).zip
+AD0D681E9AA603A44FD4BD572E2588BE	True	0	378101760	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Tetsujin - Iron Angel of The Apocalypse (1994)(Panasonic)(EU)[!].zip
+AD57A2E16414319AA368584ABA463BB2	True	0	168386560	H:\Emulation\3DO\ALL_3DO_ROMS\Adult\Idol Mahjong Final Romance 2 - Hyper Edition (1996)(Infini)(JP).zip
+ADB38967E45CE3A675D49B6C7367C01A	True	0	671399936	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Horde, The (1994)(Crystal Dynamics)(EU-US)[!].zip
+ADE35ABA3A1360A30EB46CCB9B844F65	True	0	472473600	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Return Fire v1.0 EC19.1.1 (1995)(Prolific)(US)[!].zip
+AE5B7A63B899D8E47B24FE705A3DEAC5	True	0	367616000	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Perfect General, The (1995)(Kirin Entertainment)(US)[!].zip
+AEC65A2DD814B4C9CDACBF0D2498003A	False	-1	84197376	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Putt-Putt Joins the Parade (1993)(Humongous Entertainment)(US)[!][CQ 6922-2].zip
+AEC65A2DD814B4C9CDACBF0D2498003A	False	-1	84504576	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Putt-Putt Joins the Parade (1993)(Humongous Entertainment)(US)[CQ PARADE].zip
+AEEAC953B57DFD5E81FBF48EBE27EF38	True	0	294215680	H:\Emulation\3DO\ALL_3DO_ROMS\Adult\Virtual Cameraman Part 3 - Yumika Sugimoto (1995)(Transpegasus)(JP).zip
+B014E5755619AB67E73737AE879BAC98	True	0	116125696	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Wolfenstein 3d (1994)(Interplay)(US)[!].zip
+B151934086DF0546A0C7F734CAD10F9E	True	0	472473600	H:\Emulation\3DO\ALL_3DO_ROMS\Games\N. O. B. - Neo Organic Bioform (1995)(Sanyo)(JP).zip
+B1AB22B5B96ABBABDDD2478D134ADD4C	True	0	310992896	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Super Street Fighter II Turbo (1994)(Panasonic)(CA-US)[!][SM3851-2 RE1].zip
+B266E6E77FF8CDC5C6FC05152713738E	True	0	524599296	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Virtuoso (1995)(Imagineer)(JP).zip
+B2C561E00B5E052CD7870122E2D180FB	True	0	50946048	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Real Pinball (1994)(Panasonic)(EU)[!].zip
+B2D6E0DC0C9B857515230D24020772EB	True	0	529838080	H:\Emulation\3DO\ALL_3DO_ROMS\Samplers\Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (1994)(Panasonic)(US)[!][DFJN5001ZAZ].zip
+B34E29E2993E0FAFB9131D90D857B83A	True	0	672010240	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Supreme Warrior - Ying Heung (1995)(Digital Pictures)(JP)(ja-zh)(Disc 2 of 2).zip
+B36192EF149B2D0ADB27DEC43E61EE0D	True	0	550072320	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Night Trap (1993)(Digital Pictures)(US)(Disc 2 of 2)[!].zip
+B3A1E5BF0D3176594A3B775B1AFAC785	True	0	671703040	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Need for Speed, The (1994)(Electronic Arts)(EU-US)[!].zip
+B3B080D6BC0ACA61516338EB058138DF	True	0	236851200	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Mazer (1995)(American Laser Games)(US)[!].zip
+B406EAE99020CAB7EBF8793E2BA11E80	False	-1	655974400	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Shockwave 2 - Beyond the Gate (1995)(Electronic Arts)(EU)(Disc 1 of 2)[!].zip
+B406EAE99020CAB7EBF8793E2BA11E80	False	-1	655978496	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Shockwave 2 - Beyond the Gate (1995)(Electronic Arts)(US)(Disc 1 of 2)[!].zip
+B4D064DF6C1DADBAF595EC9326A276EE	False	-1	197746688	H:\Emulation\3DO\ALL_3DO_ROMS\Coverdiscs\3DO Magazine 03 (1995-03-30)(Paragon Publishing)(GB)[!].zip
+B4D064DF6C1DADBAF595EC9326A276EE	False	-1	197746688	H:\Emulation\3DO\ALL_3DO_ROMS\Coverdiscs\3DO Magazine 11 (1996)(Paragon Publishing)(GB)[!][Jun 1996].zip
+B4E28FD2A7323CFCC2027ED6E1C5F25B	True	0	336158720	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Short Warp - Warp's Short Game Colection (1996)(Warp)(JP)[!].zip
+B5B0E5F682EC7C47E6263095611E176A	True	0	577331200	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Ide Yousuke Meijin no Shin Jissen Mahjong (1996)(Capcom)(JP).zip
+B6B55A453AA6D0ADC533E8460A466C9B	False	-1	629760000	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Psychic Detective (1995)(Electronic Arts)(EU)(Disc 2 of 3)[!].zip
+B6B55A453AA6D0ADC533E8460A466C9B	False	-1	629764096	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Psychic Detective (1995)(Electronic Arts)(US)(Disc 2 of 3)[!].zip
+B764A4B1030DAFAB5D93A5592576B1D5	True	0	472780800	H:\Emulation\3DO\ALL_3DO_ROMS\Samplers\Panasonic REAL 3DO Interactive Multiplayer - Sampler CD For PAL system (1994)(Panasonic)(EU)[!].zip
+B7E7C4ED572FEDA631E96706ADE91436	True	0	661221376	H:\Emulation\3DO\ALL_3DO_ROMS\Multimedia\Oceans Below (1993)(Software Toolworks)(US)[!].zip
+B82A18EF46688A1E329C2A83E28964BB	True	0	646840320	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Masters Harukanaru Augusta 3 (1994)(Panasonic)(JP)[!].zip
+B86E02DAD74D477184B90C11B0447487	False	-1	629456896	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Flying Nightmares (1995)(Domark)(EU)[!].zip
+B86E02DAD74D477184B90C11B0447487	False	-1	629764096	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Flying Nightmares (1995)(Domark)(US)[!].zip
+B8723F20C3D7900CEB98A36E37077BFD	False	-1	660172800	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Snow Job Starring Tracy Scoggins (1995)(Studio 3DO)(US)(Disc 2 of 2)[!].zip
+B8723F20C3D7900CEB98A36E37077BFD	False	-1	660170752	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Snowjob (1995)(Studio 3DO)(EU)(Disc 2 of 2).zip
+BA0BA9E79FF3076C010C6BBB0BA52527	True	0	650735616	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Sesame Street - Numbers (1994)(EA Kids)(US)[!].zip
+BA86B25DEE272EEA41C14BA830F68C16	True	0	236544000	H:\Emulation\3DO\ALL_3DO_ROMS\Multimedia\Sid Meier's C.P.U. Bach (1994)(MicroProse)(US)[!].zip
+BD777BF52AA47565947C054193BD2022	True	0	63528960	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Fatty Bear's Funpack (1994)(Media Vision)(JP)[!].zip
+BD8477839289CE8495507B50F413B358	True	0	105472000	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Shanghai - Banri no Choujou (1994)(Activision)(JP)[!].zip
+BE60F7234326DB505D3BCB96C6AB2EB2	True	0	294522880	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Battle Chess (1994)(Interplay)(PAL)(EU)[!].zip
+BF972A641C6ED3CC5702EFB7362262AF	True	0	629760000	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Crash 'n Burn (1994)(Crystal Dynamics)(JP)[!].zip
+C089A28B0333762FD48C78E59F370081	True	0	441323520	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Brain Dead 13 Starring Fritz (1995)(ReadySoft)(US)(Disc 2 of 2)[!].zip
+C0AC9DF79C0071CEA7D19983C17593DA	True	0	310992896	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Super Street Fighter II Turbo (1994)(Panasonic)(EU).zip
+C128F97979E8BE57077C5A8BA8190FE8	True	0	638894080	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Nova-Storm (1994)(T&E Soft)(JP)[!].zip
+C1FF87B331BAA73E7AEE075C2E9773A5	True	0	404316160	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Gex (1995)(BMG Interactive Entertainment)(JP)[!].zip
+C2326D108BAB2FF481A3A050CE1507E6	True	0	676458496	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Dragon Lore - The Legend Begins (1995)(Mindscape)(EU-US)(M4)(Disc 1 of 3)[!].zip
+C3320B4F101005BB62206E1B39A74044	True	0	357130240	H:\Emulation\3DO\ALL_3DO_ROMS\Adult\Bodyconscious Digital Rave! Part 1 - Shinjuku & Takasaki (1994)(Transpegasus)(JP).zip
+C3E3B264C38661BFC0A3B27B5C382C5D	True	0	498384896	H:\Emulation\3DO\ALL_3DO_ROMS\Multimedia\Reika - Virtual Puppet (1994)(H.A.N.D)(JP).zip
+C4DA81263165072AE4ACEAF006E8CF1B	True	0	587816960	H:\Emulation\3DO\ALL_3DO_ROMS\Multimedia\ESPN Step Aerobics (1994)(IntelliPlay)(US)[!].zip
+C65FEA84D4BC3E44C4DC9689867749A9	True	0	552910848	H:\Emulation\3DO\ALL_3DO_ROMS\Adult\Yakyuuken Special, The (1994)(Societa Daikanyama)(JP)[!].zip
+C6E5273B0358C8D08DEEA8DC27B9793C	True	0	294215680	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Cannon Fodder (1994)(Virgin)(EU)[!].zip
+C747949A608647E244A7B0B069C1C7DA	True	0	650428416	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Myst (1995)(Panasonic)(JP)[FZ-SJ0204A 3].zip
+C8D39581519CE67F874B371CE20838FB	True	0	671399936	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Wing Commander III - Heart of the Tiger (1995)(Origin)(EU-US)(Disc 2 of 4)[!].zip
+CAFC5CCCD0353BC19A832709C3810993	True	0	453296128	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Doraemons, The - Yuujou Densetsu (1995)(ShoPro)(JP)[!].zip
+CB27579388C6368F25432A4F1D0EE0FE	True	0	184115200	H:\Emulation\3DO\ALL_3DO_ROMS\Games\EMIT Vol. 3 - Watashi ni Sayonara o (1995)(KOEI)(JP)[!].zip
+CBB5F9B4A87B962E0949E63818A25385	True	0	315494400	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Stellar 7 - Draxon no Gyakushuu (1994)(Dynamix)(JP)[!].zip
+CD6CC7394B615F6FF00F876587CCDAE8	True	0	84504576	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Fatty Bear's Birthday Surprise (1993)(Humongous Entertainment)(US)[!].zip
+CDBC42A8A22E00A793B805D5768D7EA2	True	0	671399936	H:\Emulation\3DO\ALL_3DO_ROMS\Multimedia\Mirai Shounen Digital Library - Conan - The Boy in Future (1995)(Emotional Digital Software)(JP)[!].zip
+CF38B2D254BE8FBC7314FEE5B1BDB031	True	0	461684736	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Bonogurashi (1995)(Amuse)(JP).zip
+CFE0EF3E73489F66C25CD1CF3E5FE179	True	0	340660224	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Primal Rage v1.0 (1995)(GoldStar)(EU-US)(M7)[!].zip
+D09AFB0ECDECCD5C18444C4F186BC937	True	0	105472000	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Icebreaker (1995)(Panasonic)(US)[!].zip
+D0EA0BBDD21AD72DFE8129669725B40C	False	-1	378101760	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Pebble Beach Golf Links (1993)(Panasonic)(CA).zip
+D0EA0BBDD21AD72DFE8129669725B40C	False	-1	378105856	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Pebble Beach Golf Links (1993)(Panasonic)(US)[!].zip
+D0FDC1FCA55971D1E6B68AD55F0184A1	True	0	666767360	H:\Emulation\3DO\ALL_3DO_ROMS\Samplers\Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (1994)(Panasonic)(US)[!][DFJN5001ZBZ].zip
+D1E3FFB5D1FF9FAF9D920CFDB37B3093	True	0	566542336	H:\Emulation\3DO\ALL_3DO_ROMS\Adult\Super Model, The - Gail McKenna (1995)(Transpegasus)(JP).zip
+D219C82F8E68EF7B81FDC4E8CD0D3FC6	True	0	666767360	H:\Emulation\3DO\ALL_3DO_ROMS\Samplers\3DO Interactive Sampler CD #2, The (1994)(3DO Company)(US)[!].zip
+D274A6911CD8FDD152814A4BD360F26E	True	0	53350400	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Fire Ball !! (1994)(Panasonic)(JP)[!][FZ-SJ0801 2].zip
+D27C7E71ADE06F51A0677756A098C4F4	True	0	639938560	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Novastorm (1994)(Psygnosis)(US)[!].zip
+D3174C58C861DC26BA7CC5FC4BDB323B	True	0	671399936	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Wing Commander III - Heart of the Tiger (1995)(Origin)(EU-US)(Disc 4 of 4)[!].zip
+D33414AA430098B91A82162750EA9706	True	0	565053440	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Yamamura Misa Suspense - Miyako Kurama Sansou Satsujinjiken (1994)(Panasonic)(JP)(Disc 1 of 2)[!].zip
+D3BAF83BBBC348A3E0FB613EA588C03E	True	0	199843840	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Lucienne's Quest (1996)(Panasonic)(US)[!].zip
+D41489FF7BBAEFBCC292AA2DFA68DD38	True	0	168386560	H:\Emulation\3DO\ALL_3DO_ROMS\Multimedia\Little House, The (1995)(MC International)(JP).zip
+D49740E0D3DDA2618DB1F927194B1E35	True	0	420044800	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Royal Pro Wrestling - Jikkyou Live!! (1996)(Natsume)(JP)[!].zip
+D519C65C9DA462937F90EC7A6025BCFD	True	0	272941056	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Cowboy Casino - Interactive Poker (1994)(IntelliPlay)(US)[!].zip
+D541BCA63EA4E75A875C4D4C51DA2AC1	True	0	290021376	H:\Emulation\3DO\ALL_3DO_ROMS\Coverdiscs\Live! 3DO Magazine CD-ROM #03 (1994)(Tokumashoten Intermedia)(JP)[!].zip
+D5CC3A3E20E275BBACEC0177AAC5E5A4	True	0	629760000	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Panzer General (1995)(Mindscape - SSi)(EU-US)[!].zip
+D5F8D3C584CB58C0AD6F6AC7BF3BD278	True	0	407461888	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Wicked 18 (1994)(Panasonic)(US)[!].zip
+D67FFA26464B30C7E2780C1A05A9F94B	True	0	675897344	H:\Emulation\3DO\ALL_3DO_ROMS\Multimedia\ESPN Golf - Lower Your Score With Tom Kite - Shot Making (1994)(IntelliPlay)(US)(Disc 2 of 3)[!][Shot Making Disc 2].zip
+D692814A599EFA1ECE06DF475B212677	True	0	671399936	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Daedalus Encounter, The (1995)(Panasonic)(US)(Disc 1 of 4)[!].zip
+D6C5D374E7BA9C6D51FBCDE610FE2479	False	-1	50946048	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Real Pinball (1994)(Panasonic)(CA).zip
+D6C5D374E7BA9C6D51FBCDE610FE2479	False	-1	51251200	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Real Pinball (1994)(Panasonic)(US)[!].zip
+D6DF0C7E8A65E9E8A5B7C83869F0FCBE	False	-1	231301120	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Guardian War (1994)(Panasonic)(CA).zip
+D6DF0C7E8A65E9E8A5B7C83869F0FCBE	False	-1	231608320	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Guardian War (1994)(Panasonic)(US)[!].zip
+D847E9D1D967825EF2924A33D4C3E923	True	0	399073280	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Waialae Country Club (1994)(Panasonic)(CA-US)[!].zip
+D860FA376B2093CF23E20D4F51B0DC5A	True	0	524857344	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Return Fire - Maps O' Death v1.0 FB13.1.0 (1995)(Prolific)(US)[!][data disc].zip
+D88E3BC002096EBA8AE65E2AE9D30EC3	True	0	654925824	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Waialae no Kiseki (1994)(Panasonic)(JP).zip
+D896448681978C2938E490C58F99829E	True	0	669302784	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Lost Eden (1993)(Virgin)(US)(M5).zip
+D9A985DB3CCC012DED167F01AF0C1C11	True	0	210329600	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Theme Park (1995)(Electronic Arts)(JP)[!].zip
+DA19CAE02357F7B4256F4960798DB93E	True	0	546181120	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Kurokishi no Kamen (1994)(Panasonic)(JP)[!].zip
+DA9078845A1EC592F761EB4B8B413124	True	0	671399936	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Iron Angel of the Apocalypse - The Return (1995)(Synergy)(US)[!].zip
+DABF8246823C8D4FDEB9092A354A0278	True	0	115957760	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Wolfenstein 3d (1995)(Interplay)(JP)[!].zip
+DBC3258715E18EC3BD2701E745A60267	True	0	629760000	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Grimm Meisaku Gekijou 1 - Bremen no Ongakutai (1994)(IMA)(JP).zip
+DBD36B1F2C41DCF040EEDD135D3F6186	True	0	524902400	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Belzerion (1994)(Human)(JP)[!].zip
+DBF44024EF078E48175CB9168D251086	True	0	524599296	H:\Emulation\3DO\ALL_3DO_ROMS\Adult\endlessly (1994)(Vivid Interactive)(EU-US)[!].zip
+DC369C4049F06A2E7220F7768AB17E79	True	0	460636160	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Demolition Man (1994)(Virgin Games)(JP)(en)[!].zip
+DC52AFF5F34352E64E4F17AB79BEADDB	True	0	126443520	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Putt-Putt to Parade ni Ikou! (1994)(Media Vision)(JP)(en-ja)[!].zip
+DC8DD0A45F1EC80DB9B5F810CD6047D6	True	0	671399936	H:\Emulation\3DO\ALL_3DO_ROMS\Games\MegaRace (1994)(Multisoft)(JP)[!].zip
+DC97C92B1A6FDA72C8B9872EEC9A324C	True	0	587513856	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Alone in the Dark 2 (1995)(Infogrames)(FR).zip
+DD1A8D826B035939D86BF3A72223C1DC	True	0	537790464	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Puppet Tale (1994)(Panasonic)(JP)[!].zip
+DE0168EB978240AF6CCB68E54E78F617	True	0	671399936	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Creature Shock (1995)(Virgin)(US)(Disc 1 of 2)[!].zip
+DF239706D8CCE17AE2602AD9616BF8DB	True	0	262758400	H:\Emulation\3DO\ALL_3DO_ROMS\Samplers\StarBlade (demo) (1994)(Panasonic)(JP)(en).zip
+DF48F8F905382C58FDC204E09E648CF1	True	0	335855616	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Total Eclipse (1993)(Crystal Dynamics)(US)[!][57911-1].zip
+DF9018C9A46BB8431B84CDB3868DD6DB	True	0	524902400	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Virtual Quest - Pharaoh no Fuuin (1994)(ASK KODANSHA)(JP)[!].zip
+E011C25073865BD336482C0CD9EEF537	True	0	624214016	H:\Emulation\3DO\ALL_3DO_ROMS\Games\J. B. Harold - Blue Chicago Blues (1995)(Riverhill Soft)(JP)(Disc 1 of 2)[!].zip
+E081C71A10A2DAFCCEEDB7D3F5414072	True	0	367616000	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Total Eclipse (1993)(Crystal Dynamics)(US)[!][3DRM-1214760].zip
+E08D2B8F3D52491F636071E9704806DD	True	0	37621760	H:\Emulation\3DO\ALL_3DO_ROMS\Samplers\Masters Harukanaru Augusta 3 (demo) (1994)(T&E Soft)(JP).zip
+E09B89D474BD2DC689547C80592CF685	True	0	305008640	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Toki o Koeta Tegami - The letter that over came time (1994)(Panasonic)(JP)[!].zip
+E0C906E5803748F9862F1111126154B2	True	0	675594240	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Kingdom - The Far Reaches (1994)(Interplay)(EU-US)[!].zip
+E1A7F4EE6CD3794EDF54CC1634A31A3E	True	0	336158720	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Total Eclipse (1993)(Crystal Dynamics)(JP)[!].zip
+E261BCBD621FF24A8BA04CAA834B0118	True	0	666157056	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Policenauts (1995)(Konami)(JP)(Disc 2 of 2)[!].zip
+E27004330BEBE19DB924A6A9C39442CA	True	0	399073280	H:\Emulation\3DO\ALL_3DO_ROMS\Games\BladeForce (1995)(Studio 3DO)(JP)[!].zip
+E3AB2BB8C3A6B611E61871C9BCA0D30D	True	0	42557440	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Igo Time Trial Najigo I (1994)(Ematec)(JP)[!].zip
+E3B163CA7950BEF509EBB1BA04BA4F07	True	0	348741632	H:\Emulation\3DO\ALL_3DO_ROMS\Coverdiscs\Live! 3DO Magazine CD-ROM #04 (1994)(Tokumashoten Intermedia)(JP)[!].zip
+E3B6CEA0490EA5695CD745F8B89D4E47	True	0	419741696	H:\Emulation\3DO\ALL_3DO_ROMS\Games\World Cup Special (1995)(Coconuts Japan)(JP)(en).zip
+E3DEC395FF34564800ED94064FA9BFE5	True	0	315494400	H:\Emulation\3DO\ALL_3DO_ROMS\Applications\3DO Game Guru (1995)(3DO Company)(EU-US)[!].zip
+E435E79B12A0BB41243E39362861DC38	True	0	346341376	H:\Emulation\3DO\ALL_3DO_ROMS\Multimedia\Yamada Kamachi Bijutsukan - Kamachi's Museum (1995)(TV Asahi)(JP)[!].zip
+E4392792861D92356FE597A582FD71FC	False	-1	629762048	H:\Emulation\3DO\ALL_3DO_ROMS\Coverdiscs\3DO Magazine 09 (1996)(Paragon Publishing)(GB)[!][Apr 1996].zip
+E4392792861D92356FE597A582FD71FC	False	-1	629764096	H:\Emulation\3DO\ALL_3DO_ROMS\Samplers\3DO Interactive Sampler CD 4, The (1995)(3DO Company)(US)[!].zip
+E46482062E1724F47EC1609EE8B59D43	True	0	407461888	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Incredible Machine, The (1994)(Dynamix)(US)[!].zip
+E4EF84D2E001DBB56562D364BB83779D	True	0	84695040	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Putt-Putt's Fun Pack (1993)(Humongous Entertainment)(US)[!].zip
+E69C3B95743F10A589BDE6AEC3F41DB2	True	0	623101952	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Space Pirates (1994)(American Laser Games)(US)[!].zip
+E73F1A323B4F7514EE289E996CE75DD9	True	0	461987840	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Hirata Shiyougo Interactive Ehon - Cinderella (1995)(ELCOM)(JP)(M3).zip
+E7F39EA88500D47692D929E4D7E1DB8A	True	0	441016320	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Pebble Beach Golf Links (1994)(Panasonic)(EU)[!].zip
+E83EA3BAA3D52841A34283E3AAAAB594	True	0	367923200	H:\Emulation\3DO\ALL_3DO_ROMS\Games\VR Stalker (1994)(American Laser Games)(US)[!].zip
+E895D53C528E317C78DE440DDFEDD2FA	True	0	236544000	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Shadow Warriors (1994)(T&E Soft)(JP)(en)[!].zip
+E8B9C08B957D49AA3DCA1FA603795FC2	True	0	671399936	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Daedalus Encounter - Episode 1 - Nanpasen no Alien (1995)(HATNET)(JP)(Disc 4 of 4)[!].zip
+E8CA90894D642DEDD5BC0BA90D0003CA	True	0	420044800	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Pro Stadium (1995)(Sanyo)(JP)[!].zip
+E98ECBA90B948E394C4921C75CF2A90A	True	0	480862208	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Sekure Fuumin no Omocha Hako (1994)(GLAMS)(JP)[!].zip
+E9A8DC5AFB383C98B29DC43412FF3F61	True	0	640245760	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Nemurenu Yoru no Chiisa Nao Hanashi (1994)(Amuse)(JP).zip
+EA3C7FAB09C2E8617E95BA22438F614C	True	0	661217280	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Murphy Dayo Zenin Shuugou!! - Murphy's TV CD-ROM (1994)(Vantan International)(JP)(en-ja)[!].zip
+EA7DD0C8ED44E02FC106230632417A75	True	0	676458496	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Dragon Lore - The Legend Begins (1995)(Mindscape)(EU-US)(M4)(Disc 2 of 3)[!].zip
+EAD2637AE4403842541B9B0924AFB746	True	0	241790976	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Shadow - War of Succession (1994)(Tribeca Digital Studios)(US)[!].zip
+EAD4325CFF8C1E131CC239288CD98738	True	0	441016320	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Family Feud (1994)(Gametek)(US)[!].zip
+EC6F8B3E83393661A89891D23D508D3B	True	0	535390208	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Super Wing Commander (1994)(Origin)(EU)[!].zip
+EDB7EB579985AE619CF8C5A3CD6286AE	False	-1	660172800	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Snow Job Starring Tracy Scoggins (1995)(Studio 3DO)(US)(Disc 1 of 2)[!].zip
+EDB7EB579985AE619CF8C5A3CD6286AE	False	-1	660170752	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Snowjob (1995)(Studio 3DO)(EU)(Disc 1 of 2).zip
+EE0AFAE3C4B3690330BFB08947ED9912	True	0	84807680	H:\Emulation\3DO\ALL_3DO_ROMS\Coverdiscs\3DO Magazine 06 (1995)(Paragon Publishing)(GB)[!][Oct-Nov 1995].zip
+EE4D244FD43C60C37A0EA7F0A942C2BD	False	-1	117006336	H:\Emulation\3DO\ALL_3DO_ROMS\Coverdiscs\3DO Magazine 04 (1995)(Paragon Publishing)(GB)[!].zip
+EE4D244FD43C60C37A0EA7F0A942C2BD	False	-1	117006336	H:\Emulation\3DO\ALL_3DO_ROMS\Coverdiscs\3DO Magazine 12 (1996)(Paragon Publishing)(GB)[!][Jul 1996].zip
+EEB933893D2026B149D2EA3ABCAAD434	True	0	675901440	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Killing Time v3.10 (1995)(Studio 3DO)(US)[mail-in disc].zip
+EECCBF823D29FA63FBE2DBD6D66F4093	True	0	422146048	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Lemmings (1993)(Psygnosis)(US)[!].zip
+F0221D290892A9192D4D93293DF55568	True	0	671399936	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Hell - A Cyberpunk Thriller (1994)(Take 2)(US)[!].zip
+F0321ACB176D7DE7A361F125F6BB21E7	True	0	315187200	H:\Emulation\3DO\ALL_3DO_ROMS\Games\John Madden NFL Football (1994)(EA Sports)(EU)[!].zip
+F0B5D0BC87419454820FD07E7B98F358	True	0	39411712	H:\Emulation\3DO\ALL_3DO_ROMS\Samplers\Puzzle Bobble (demo) (1995)(Micro Cabin)(JP).zip
+F0B8D3A3EE1D9F7735BA02F1CE79F4C3	True	0	556056576	H:\Emulation\3DO\ALL_3DO_ROMS\Games\D's Diner - The Director's Cut (1996)(Warp)(JP)(Disc 1 of 3)[!][Disk A].zip
+F10241CBF026CD5A331EF039D0B0A74E	True	0	514416640	H:\Emulation\3DO\ALL_3DO_ROMS\Games\PaTaank (1994)(BMG Interactive Entertainment)(JP)[!].zip
+F2AE970E9F6F27E4C5FBF772183DEAF0	True	0	373907456	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Alone in the Dark (1994)(Pony Canyon)(JP)[!].zip
+F3D6316D470EEDBE7496DF05BE9CEE5A	True	0	670351360	H:\Emulation\3DO\ALL_3DO_ROMS\Multimedia\20th Century Video Almanac (1993)(Software Toolworks)(US)[!].zip
+F4A74801E7F3873DBF027112DB92E310	True	0	199843840	H:\Emulation\3DO\ALL_3DO_ROMS\Games\J.League Virtual Stadium '95 (1995)(EA Sports)(JP)[!].zip
+F4BC5ACB3D5B50704EBA813F204BD6FC	True	0	472170496	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Defcon 5 (1996)(Multisoft)(JP).zip
+F55292334B438F97BCC92DAD92BA8E32	True	0	95293440	H:\Emulation\3DO\ALL_3DO_ROMS\Coverdiscs\3DO Magazine 08 (1996)(Paragon Publishing)(GB)[!][Feb-Mar 1996].zip
+F572784191A8C17233803D48CB12A018	True	0	315187200	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Ballz - The Director's Cut (1995)(Panasonic)[!].zip
+F7C0BD4E0D24C017976E6249D7CD18A3	False	-1	197746688	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Theme Park (1994)(Electronic Arts)(EU)(en-fr)[!].zip
+F7C0BD4E0D24C017976E6249D7CD18A3	False	-1	198053888	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Theme Park (1994)(Electronic Arts)(US)(en-fr)[!].zip
+F84E04E31B16BC948385AFF464B7BF58	True	0	577028096	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Great! Soccer Kid (1994)(Studio 3DO)(JP).zip
+F861F754D394DAA030B2C44E25A54A3E	True	0	263065600	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Another World (1994)(Interplay)(EU)[!].zip
+F929539D0A52F95158398D0C7EA064F6	False	-1	122249216	H:\Emulation\3DO\ALL_3DO_ROMS\Coverdiscs\3DO Magazine 02 (1995)(Paragon Publishing)(GB)[!].zip
+F929539D0A52F95158398D0C7EA064F6	False	-1	122251264	H:\Emulation\3DO\ALL_3DO_ROMS\Coverdiscs\3DO Magazine 10 (1996)(Paragon Publishing)(GB)[!][May 1996].zip
+F929539D0A52F95158398D0C7EA064F6	False	-1	122249216	H:\Emulation\3DO\ALL_3DO_ROMS\Samplers\Super Street Fighter II X - Grand Master Challenge (demo) (1994)(Panasonic)(JP)[!].zip
+F9D16365C5924C98F7669C6DA3BE3F2E	True	0	460939264	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Demolition Man (1994)(Virgin)(US)[!].zip
+F9D9BCA19C31D5CB6FC5DAADDBE07641	True	0	650428416	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Myst (1994)(Panasonic)(US)[!].zip
+F9E95FEF41E0DD3CECCE47A7FA7F4EA8	True	0	231608320	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Powers Kingdom (1994)(Panasonic)(JP)[!].zip
+FA1AF9D5196AA1B2427E5268A357AF51	True	0	210329600	H:\Emulation\3DO\ALL_3DO_ROMS\Educational\Eigo de Go! - Gateway to English (1996)(Gakken)(JP).zip
+FA77A5FCDA197F7F641A000261C5BF2D	True	0	558764032	H:\Emulation\3DO\ALL_3DO_ROMS\Adult\Love Bites (1994)(Vivid Interactive)(US)[!].zip
+FA874946F39300EAAA0D47DCB9A1B2A7	True	0	545570816	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Princess Maker 2 (1995)(Micro Cabin)(JP)[!].zip
+FAFF66271A33F1F084453744C6649EB3	True	0	548276224	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Theatre Wars - Goraku no Dendou (1994)(Panasonic)(JP)[!].zip
+FB4734F3FEE89A04E7CEC1D2021B2C0D	True	0	671703040	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Sotsugyou Graduation Final (1994)(Shar Rock)(JP)[!].zip
+FB716393525207C47532EA279A3D96C7	True	0	656281600	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Corpse Killer (1994)(Digital Pictures)(JP).zip
+FCD2A8E6CF1146DD9A129474820F2726	True	0	409559040	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Macaroni Houren Shou Interactive (1995)(Toshiba EMI)(JP)[!].zip
+FDEE706454F245026E0C9C6DA5F0103D	True	0	136929280	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Syndicate (1995)(Electronic Arts)(JP).zip
+FE07B9161088E9B251DA7CDFB4E2AE6A	True	0	671703040	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Horde, The (1994)(Crystal Dynamics)(JP)[!].zip
+FE0B682C560318DDAB026FCA28E0288B	True	0	671399936	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Daedalus Encounter - Episode 1 - Nanpasen no Alien (1995)(HATNET)(JP)(Disc 2 of 4)[!].zip
+FE9C32627E8460F4D122ED8EBB3E86F7	True	0	669603840	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Yamamura Misa Suspense - Miyako Kurama Sansou Satsujinjiken (1994)(Panasonic)(JP)(Disc 2 of 2)[!].zip
+FF1F2DA937B3AE01AEB18172B505874D	True	0	346644480	H:\Emulation\3DO\ALL_3DO_ROMS\Samplers\Pro Yakyuu Virtual Stadium - Professional Baseball (demo) (1995)(EA Sports)(JP)[!].zip
+FFF68FE9AD16178A3697B9264D40829C	False	-1	336465920	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Out of this World (1993)(Interplay)(US)[!][45097-1].zip
+FFF68FE9AD16178A3697B9264D40829C	False	-1	335855616	H:\Emulation\3DO\ALL_3DO_ROMS\Games\Out of this World (1993)(Interplay)(US)[!][CD3DO0230RE].zip
